@@ -1,0 +1,4464 @@
+SOLUTION NUMBER : 1
+
+
+1 4 2 3 5 8 20 9 6 7 10 11 12 13 17 16 15 14 18 19 21 22 23 = 440 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 5 8
+its cycle time : 358
+
+station number 2's allocation:
+human assigned
+tasks assigned : 20 9 6 7 10 11 12 13 17
+its cycle time : 436
+
+station number 3's allocation:
+human assigned
+tasks assigned : 16 15 14 18 19 21 22 23
+its cycle time : 440
+
+
+SOLUTION NUMBER : 2
+
+
+1 4 2 3 6 20 7 8 5 10 9 11 14 12 13 18 16 15 17 19 21 22 23 = 418 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 6 20
+its cycle time : 418
+
+station number 2's allocation:
+human assigned
+tasks assigned : 7 8 5 10 9 11 14 12 13 18
+its cycle time : 401
+
+station number 3's allocation:
+human assigned
+tasks assigned : 16 15 17 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 3
+
+
+1 2 4 3 5 8 9 7 6 10 11 12 13 16 18 20 17 14 15 19 21 22 23 = 438 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 5 8 9 7
+its cycle time : 438
+
+station number 2's allocation:
+human assigned
+tasks assigned : 6 10 11 12 13 16 18 20
+its cycle time : 431
+
+station number 3's allocation:
+human assigned
+tasks assigned : 17 14 15 19 21 22 23
+its cycle time : 365
+
+
+SOLUTION NUMBER : 4
+
+
+1 4 2 3 8 9 6 20 7 10 5 11 12 13 15 16 17 18 14 19 21 22 23 = 440 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 8 9 6
+its cycle time : 408
+
+station number 2's allocation:
+human assigned
+tasks assigned : 20 7 10 5 11 12 13 15
+its cycle time : 386
+
+station number 3's allocation:
+human assigned
+tasks assigned : 16 17 18 14 19 21 22 23
+its cycle time : 440
+
+
+SOLUTION NUMBER : 5
+
+
+1 4 2 3 20 8 5 7 9 6 10 11 14 12 13 16 18 17 15 19 21 22 23 = 418 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 20 8
+its cycle time : 418
+
+station number 2's allocation:
+human assigned
+tasks assigned : 5 7 9 6 10 11 14 12 13 16
+its cycle time : 401
+
+station number 3's allocation:
+human assigned
+tasks assigned : 18 17 15 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 6
+
+
+1 2 4 3 5 6 20 7 10 8 9 11 14 12 13 17 16 15 18 19 21 22 23 = 461 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 5 6
+its cycle time : 358
+
+station number 2's allocation:
+human assigned
+tasks assigned : 20 7 10 8 9 11 14 12 13 17
+its cycle time : 461
+
+station number 3's allocation:
+human assigned
+tasks assigned : 16 15 18 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 7
+
+
+1 2 4 3 7 8 6 5 9 10 11 12 20 14 13 16 15 18 17 19 21 22 23 = 431 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 7 8 6
+its cycle time : 388
+
+station number 2's allocation:
+human assigned
+tasks assigned : 5 9 10 11 12 20 14 13 16
+its cycle time : 431
+
+station number 3's allocation:
+human assigned
+tasks assigned : 15 18 17 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 8
+
+
+1 4 2 3 20 8 9 7 5 6 10 11 14 12 13 18 16 15 17 19 21 22 23 = 418 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 20 8
+its cycle time : 418
+
+station number 2's allocation:
+human assigned
+tasks assigned : 9 7 5 6 10 11 14 12 13 18
+its cycle time : 401
+
+station number 3's allocation:
+human assigned
+tasks assigned : 16 15 17 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 9
+
+
+1 4 2 3 5 7 6 8 9 10 20 11 14 12 13 15 18 17 16 19 21 22 23 = 431 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 5 7 6
+its cycle time : 388
+
+station number 2's allocation:
+human assigned
+tasks assigned : 8 9 10 20 11 14 12 13 15
+its cycle time : 431
+
+station number 3's allocation:
+human assigned
+tasks assigned : 18 17 16 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 10
+
+
+1 2 3 8 9 4 20 6 7 5 10 11 12 14 13 16 18 17 15 19 21 22 23 = 468 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 8 9 4 20
+its cycle time : 468
+
+station number 2's allocation:
+human assigned
+tasks assigned : 6 7 5 10 11 12 14 13 16 18
+its cycle time : 426
+
+station number 3's allocation:
+human assigned
+tasks assigned : 17 15 19 21 22 23
+its cycle time : 340
+
+
+SOLUTION NUMBER : 11
+
+
+1 4 2 3 7 20 8 9 6 5 10 11 12 13 18 15 17 16 14 19 21 22 23 = 440 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 7 20
+its cycle time : 388
+
+station number 2's allocation:
+human assigned
+tasks assigned : 8 9 6 5 10 11 12 13 18
+its cycle time : 406
+
+station number 3's allocation:
+human assigned
+tasks assigned : 15 17 16 14 19 21 22 23
+its cycle time : 440
+
+
+SOLUTION NUMBER : 12
+
+
+1 2 4 3 5 8 9 7 6 20 10 11 14 12 13 18 17 16 15 19 21 22 23 = 415 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 5 8 9
+its cycle time : 408
+
+station number 2's allocation:
+human assigned
+tasks assigned : 7 6 20 10 11 14 12 13 18
+its cycle time : 411
+
+station number 3's allocation:
+human assigned
+tasks assigned : 17 16 15 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 13
+
+
+1 2 3 20 5 8 4 7 9 6 10 11 12 14 13 16 18 17 15 19 21 22 23 = 438 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 20 5 8
+its cycle time : 438
+
+station number 2's allocation:
+human assigned
+tasks assigned : 4 7 9 6 10 11 12 14 13 16
+its cycle time : 381
+
+station number 3's allocation:
+human assigned
+tasks assigned : 18 17 15 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 14
+
+
+1 2 4 3 7 20 8 5 9 6 10 11 14 12 13 17 15 18 16 19 21 22 23 = 431 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 7 20
+its cycle time : 388
+
+station number 2's allocation:
+human assigned
+tasks assigned : 8 5 9 6 10 11 14 12 13 17
+its cycle time : 431
+
+station number 3's allocation:
+human assigned
+tasks assigned : 15 18 16 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 15
+
+
+1 4 2 3 5 8 9 6 7 10 11 14 20 12 13 17 16 15 18 19 21 22 23 = 415 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 5 8 9
+its cycle time : 408
+
+station number 2's allocation:
+human assigned
+tasks assigned : 6 7 10 11 14 20 12 13 17
+its cycle time : 411
+
+station number 3's allocation:
+human assigned
+tasks assigned : 16 15 18 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 16
+
+
+1 2 3 6 8 4 10 7 20 9 11 12 14 5 13 16 15 17 18 19 21 22 23 = 415 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 6 8 4 10
+its cycle time : 408
+
+station number 2's allocation:
+human assigned
+tasks assigned : 7 20 9 11 12 14 5 13 16
+its cycle time : 411
+
+station number 3's allocation:
+human assigned
+tasks assigned : 15 17 18 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 17
+
+
+1 4 2 3 7 5 20 6 10 8 9 11 12 13 18 14 17 15 16 19 21 22 23 = 448 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 7 5 20
+its cycle time : 448
+
+station number 2's allocation:
+human assigned
+tasks assigned : 6 10 8 9 11 12 13 18 14 17
+its cycle time : 446
+
+station number 3's allocation:
+human assigned
+tasks assigned : 15 16 19 21 22 23
+its cycle time : 340
+
+
+SOLUTION NUMBER : 18
+
+
+1 4 2 3 6 20 8 10 5 9 7 11 14 12 13 17 18 15 16 19 21 22 23 = 418 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 6 20
+its cycle time : 418
+
+station number 2's allocation:
+human assigned
+tasks assigned : 8 10 5 9 7 11 14 12 13 17
+its cycle time : 401
+
+station number 3's allocation:
+human assigned
+tasks assigned : 18 15 16 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 19
+
+
+1 2 4 3 20 5 6 8 10 7 9 11 12 13 16 17 15 18 14 19 21 22 23 = 440 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 20 5
+its cycle time : 418
+
+station number 2's allocation:
+human assigned
+tasks assigned : 6 8 10 7 9 11 12 13 16
+its cycle time : 376
+
+station number 3's allocation:
+human assigned
+tasks assigned : 17 15 18 14 19 21 22 23
+its cycle time : 440
+
+
+SOLUTION NUMBER : 20
+
+
+1 4 2 3 8 20 9 7 6 10 5 11 14 12 13 18 16 17 15 19 21 22 23 = 418 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 8 20
+its cycle time : 418
+
+station number 2's allocation:
+human assigned
+tasks assigned : 9 7 6 10 5 11 14 12 13 18
+its cycle time : 401
+
+station number 3's allocation:
+human assigned
+tasks assigned : 16 17 15 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 21
+
+
+1 2 3 20 7 8 9 4 5 6 10 11 12 14 13 18 15 17 16 19 21 22 23 = 415 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 20 7 8
+its cycle time : 408
+
+station number 2's allocation:
+human assigned
+tasks assigned : 9 4 5 6 10 11 12 14 13 18
+its cycle time : 411
+
+station number 3's allocation:
+human assigned
+tasks assigned : 15 17 16 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 22
+
+
+1 2 3 4 5 7 20 6 8 10 9 11 14 12 13 16 18 15 17 19 21 22 23 = 448 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 4 5 7 20
+its cycle time : 448
+
+station number 2's allocation:
+human assigned
+tasks assigned : 6 8 10 9 11 14 12 13 16 18
+its cycle time : 446
+
+station number 3's allocation:
+human assigned
+tasks assigned : 15 17 19 21 22 23
+its cycle time : 340
+
+
+SOLUTION NUMBER : 23
+
+
+1 2 4 3 6 10 8 7 20 5 9 11 12 13 18 17 14 16 15 19 21 22 23 = 438 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 6 10 8 7
+its cycle time : 438
+
+station number 2's allocation:
+human assigned
+tasks assigned : 20 5 9 11 12 13 18 17
+its cycle time : 431
+
+station number 3's allocation:
+human assigned
+tasks assigned : 14 16 15 19 21 22 23
+its cycle time : 365
+
+
+SOLUTION NUMBER : 24
+
+
+1 4 2 3 6 8 9 20 10 5 7 11 14 12 13 15 17 16 18 19 21 22 23 = 415 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 6 8 9
+its cycle time : 408
+
+station number 2's allocation:
+human assigned
+tasks assigned : 20 10 5 7 11 14 12 13 15
+its cycle time : 411
+
+station number 3's allocation:
+human assigned
+tasks assigned : 17 16 18 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 25
+
+
+1 4 2 3 20 6 8 5 7 9 10 11 12 13 18 17 15 16 14 19 21 22 23 = 440 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 20 6
+its cycle time : 418
+
+station number 2's allocation:
+human assigned
+tasks assigned : 8 5 7 9 10 11 12 13 18
+its cycle time : 376
+
+station number 3's allocation:
+human assigned
+tasks assigned : 17 15 16 14 19 21 22 23
+its cycle time : 440
+
+
+SOLUTION NUMBER : 26
+
+
+1 2 3 6 4 20 8 5 9 7 10 11 14 12 13 17 16 15 18 19 21 22 23 = 418 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 6 4 20
+its cycle time : 418
+
+station number 2's allocation:
+human assigned
+tasks assigned : 8 5 9 7 10 11 14 12 13 17
+its cycle time : 401
+
+station number 3's allocation:
+human assigned
+tasks assigned : 16 15 18 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 27
+
+
+1 4 2 3 5 20 6 10 8 9 11 14 7 12 13 16 17 15 18 19 21 22 23 = 418 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 5 20
+its cycle time : 418
+
+station number 2's allocation:
+human assigned
+tasks assigned : 6 10 8 9 11 14 7 12 13 16
+its cycle time : 401
+
+station number 3's allocation:
+human assigned
+tasks assigned : 17 15 18 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 28
+
+
+1 4 2 3 7 5 6 10 8 20 9 11 14 12 13 17 18 15 16 19 21 22 23 = 431 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 7 5 6
+its cycle time : 388
+
+station number 2's allocation:
+human assigned
+tasks assigned : 10 8 20 9 11 14 12 13 17
+its cycle time : 431
+
+station number 3's allocation:
+human assigned
+tasks assigned : 18 15 16 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 29
+
+
+1 2 3 7 8 6 20 4 5 9 10 11 14 12 13 15 18 17 16 19 21 22 23 = 468 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 8 6 20
+its cycle time : 468
+
+station number 2's allocation:
+human assigned
+tasks assigned : 4 5 9 10 11 14 12 13 15 18
+its cycle time : 426
+
+station number 3's allocation:
+human assigned
+tasks assigned : 17 16 19 21 22 23
+its cycle time : 340
+
+
+SOLUTION NUMBER : 30
+
+
+1 2 4 3 5 7 6 8 20 10 9 11 14 12 13 17 15 16 18 19 21 22 23 = 431 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 5 7 6
+its cycle time : 388
+
+station number 2's allocation:
+human assigned
+tasks assigned : 8 20 10 9 11 14 12 13 17
+its cycle time : 431
+
+station number 3's allocation:
+human assigned
+tasks assigned : 15 16 18 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 31
+
+
+1 2 4 3 5 20 7 8 9 6 10 11 14 12 13 18 16 17 15 19 21 22 23 = 418 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 5 20
+its cycle time : 418
+
+station number 2's allocation:
+human assigned
+tasks assigned : 7 8 9 6 10 11 14 12 13 18
+its cycle time : 401
+
+station number 3's allocation:
+human assigned
+tasks assigned : 16 17 15 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 32
+
+
+1 4 2 3 20 8 5 7 6 9 10 11 12 14 13 15 17 16 18 19 21 22 23 = 418 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 20 8
+its cycle time : 418
+
+station number 2's allocation:
+human assigned
+tasks assigned : 5 7 6 9 10 11 12 14 13 15
+its cycle time : 401
+
+station number 3's allocation:
+human assigned
+tasks assigned : 17 16 18 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 33
+
+
+1 2 3 7 4 8 9 6 20 10 11 12 14 5 13 18 16 17 15 19 21 22 23 = 438 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 4 8 9 6
+its cycle time : 438
+
+station number 2's allocation:
+human assigned
+tasks assigned : 20 10 11 12 14 5 13 18
+its cycle time : 381
+
+station number 3's allocation:
+human assigned
+tasks assigned : 16 17 15 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 34
+
+
+1 2 3 6 7 5 4 10 8 20 9 11 12 14 13 15 18 16 17 19 21 22 23 = 431 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 6 7 5 4
+its cycle time : 388
+
+station number 2's allocation:
+human assigned
+tasks assigned : 10 8 20 9 11 12 14 13 15
+its cycle time : 431
+
+station number 3's allocation:
+human assigned
+tasks assigned : 18 16 17 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 35
+
+
+1 4 2 3 5 20 7 8 9 6 10 11 14 12 13 18 16 17 15 19 21 22 23 = 418 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 5 20
+its cycle time : 418
+
+station number 2's allocation:
+human assigned
+tasks assigned : 7 8 9 6 10 11 14 12 13 18
+its cycle time : 401
+
+station number 3's allocation:
+human assigned
+tasks assigned : 16 17 15 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 36
+
+
+1 2 3 6 7 4 20 10 5 8 9 11 14 12 13 18 16 17 15 19 21 22 23 = 448 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 6 7 4 20
+its cycle time : 448
+
+station number 2's allocation:
+human assigned
+tasks assigned : 10 5 8 9 11 14 12 13 18 16
+its cycle time : 446
+
+station number 3's allocation:
+human assigned
+tasks assigned : 17 15 19 21 22 23
+its cycle time : 340
+
+
+SOLUTION NUMBER : 37
+
+
+1 4 2 3 6 7 5 10 8 20 9 11 12 14 13 15 18 16 17 19 21 22 23 = 431 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 6 7 5
+its cycle time : 388
+
+station number 2's allocation:
+human assigned
+tasks assigned : 10 8 20 9 11 12 14 13 15
+its cycle time : 431
+
+station number 3's allocation:
+human assigned
+tasks assigned : 18 16 17 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 38
+
+
+1 2 3 8 9 4 20 6 7 5 10 11 14 12 13 16 15 18 17 19 21 22 23 = 468 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 8 9 4 20
+its cycle time : 468
+
+station number 2's allocation:
+human assigned
+tasks assigned : 6 7 5 10 11 14 12 13 16 15
+its cycle time : 426
+
+station number 3's allocation:
+human assigned
+tasks assigned : 18 17 19 21 22 23
+its cycle time : 340
+
+
+SOLUTION NUMBER : 39
+
+
+1 2 3 20 7 8 9 6 5 10 11 14 12 13 17 15 18 16 19 21 22 4 23 = 446 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 20 7 8
+its cycle time : 408
+
+station number 2's allocation:
+human assigned
+tasks assigned : 9 6 5 10 11 14 12 13 17 15
+its cycle time : 446
+
+station number 3's allocation:
+human assigned
+tasks assigned : 18 16 19 21 22 4 23
+its cycle time : 380
+
+
+SOLUTION NUMBER : 40
+
+
+1 2 4 3 8 20 5 6 7 10 9 11 14 12 13 18 15 17 16 19 21 22 23 = 418 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 8 20
+its cycle time : 418
+
+station number 2's allocation:
+human assigned
+tasks assigned : 5 6 7 10 9 11 14 12 13 18
+its cycle time : 401
+
+station number 3's allocation:
+human assigned
+tasks assigned : 15 17 16 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 41
+
+
+1 2 3 20 5 8 4 7 9 6 10 11 12 14 13 17 15 16 18 19 21 22 23 = 438 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 20 5 8
+its cycle time : 438
+
+station number 2's allocation:
+human assigned
+tasks assigned : 4 7 9 6 10 11 12 14 13 17
+its cycle time : 381
+
+station number 3's allocation:
+human assigned
+tasks assigned : 15 16 18 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 42
+
+
+1 2 3 6 8 4 10 7 20 9 11 12 14 5 13 18 17 16 15 19 21 22 23 = 415 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 6 8 4 10
+its cycle time : 408
+
+station number 2's allocation:
+human assigned
+tasks assigned : 7 20 9 11 12 14 5 13 18
+its cycle time : 411
+
+station number 3's allocation:
+human assigned
+tasks assigned : 17 16 15 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 43
+
+
+1 2 4 3 8 9 6 20 10 11 14 7 12 5 13 16 18 17 15 19 21 22 23 = 415 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 8 9 6
+its cycle time : 408
+
+station number 2's allocation:
+human assigned
+tasks assigned : 20 10 11 14 7 12 5 13 16
+its cycle time : 411
+
+station number 3's allocation:
+human assigned
+tasks assigned : 18 17 15 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 44
+
+
+1 4 2 3 5 8 9 7 6 20 10 11 12 14 13 17 18 15 16 19 21 22 23 = 415 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 5 8 9
+its cycle time : 408
+
+station number 2's allocation:
+human assigned
+tasks assigned : 7 6 20 10 11 12 14 13 17
+its cycle time : 411
+
+station number 3's allocation:
+human assigned
+tasks assigned : 18 15 16 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 45
+
+
+1 2 4 3 5 6 20 7 10 8 9 11 14 12 13 16 18 17 15 19 21 22 23 = 461 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 5 6
+its cycle time : 358
+
+station number 2's allocation:
+human assigned
+tasks assigned : 20 7 10 8 9 11 14 12 13 16
+its cycle time : 461
+
+station number 3's allocation:
+human assigned
+tasks assigned : 18 17 15 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 46
+
+
+1 2 4 3 5 8 7 6 20 10 9 11 14 12 13 18 15 17 16 19 21 22 23 = 431 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 5 8 7
+its cycle time : 388
+
+station number 2's allocation:
+human assigned
+tasks assigned : 6 20 10 9 11 14 12 13 18
+its cycle time : 431
+
+station number 3's allocation:
+human assigned
+tasks assigned : 15 17 16 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 47
+
+
+1 4 2 3 5 8 7 6 20 10 9 11 14 12 13 18 15 17 16 19 21 22 23 = 431 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 5 8 7
+its cycle time : 388
+
+station number 2's allocation:
+human assigned
+tasks assigned : 6 20 10 9 11 14 12 13 18
+its cycle time : 431
+
+station number 3's allocation:
+human assigned
+tasks assigned : 15 17 16 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 48
+
+
+1 2 3 6 7 8 20 10 5 9 11 4 14 12 13 18 15 17 16 19 21 22 23 = 468 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 6 7 8 20
+its cycle time : 468
+
+station number 2's allocation:
+human assigned
+tasks assigned : 10 5 9 11 4 14 12 13 18 15
+its cycle time : 426
+
+station number 3's allocation:
+human assigned
+tasks assigned : 17 16 19 21 22 23
+its cycle time : 340
+
+
+SOLUTION NUMBER : 49
+
+
+1 2 4 3 8 20 5 6 10 9 11 14 7 12 13 16 18 17 15 19 21 22 23 = 418 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 8 20
+its cycle time : 418
+
+station number 2's allocation:
+human assigned
+tasks assigned : 5 6 10 9 11 14 7 12 13 16
+its cycle time : 401
+
+station number 3's allocation:
+human assigned
+tasks assigned : 18 17 15 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 50
+
+
+1 2 4 3 5 7 20 6 8 9 10 11 14 12 13 18 15 17 16 19 21 22 23 = 448 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 5 7 20
+its cycle time : 448
+
+station number 2's allocation:
+human assigned
+tasks assigned : 6 8 9 10 11 14 12 13 18 15
+its cycle time : 446
+
+station number 3's allocation:
+human assigned
+tasks assigned : 17 16 19 21 22 23
+its cycle time : 340
+
+
+SOLUTION NUMBER : 51
+
+
+1 2 3 8 9 4 20 6 7 5 10 11 12 14 13 18 17 16 15 19 21 22 23 = 468 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 8 9 4 20
+its cycle time : 468
+
+station number 2's allocation:
+human assigned
+tasks assigned : 6 7 5 10 11 12 14 13 18 17
+its cycle time : 426
+
+station number 3's allocation:
+human assigned
+tasks assigned : 16 15 19 21 22 23
+its cycle time : 340
+
+
+SOLUTION NUMBER : 52
+
+
+1 4 2 3 7 20 8 9 6 10 11 5 14 12 13 18 15 17 16 19 21 22 23 = 431 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 7 20
+its cycle time : 388
+
+station number 2's allocation:
+human assigned
+tasks assigned : 8 9 6 10 11 5 14 12 13 18
+its cycle time : 431
+
+station number 3's allocation:
+human assigned
+tasks assigned : 15 17 16 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 53
+
+
+1 2 3 20 5 8 9 7 4 6 10 11 12 14 13 17 18 15 16 19 21 22 23 = 438 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 20 5 8
+its cycle time : 438
+
+station number 2's allocation:
+human assigned
+tasks assigned : 9 7 4 6 10 11 12 14 13 17
+its cycle time : 381
+
+station number 3's allocation:
+human assigned
+tasks assigned : 18 15 16 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 54
+
+
+1 2 4 3 7 20 8 9 5 6 10 11 12 14 13 17 18 15 16 19 21 22 23 = 431 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 7 20
+its cycle time : 388
+
+station number 2's allocation:
+human assigned
+tasks assigned : 8 9 5 6 10 11 12 14 13 17
+its cycle time : 431
+
+station number 3's allocation:
+human assigned
+tasks assigned : 18 15 16 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 55
+
+
+1 4 2 3 5 8 9 7 6 20 10 11 12 14 13 15 17 16 18 19 21 22 23 = 415 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 5 8 9
+its cycle time : 408
+
+station number 2's allocation:
+human assigned
+tasks assigned : 7 6 20 10 11 12 14 13 15
+its cycle time : 411
+
+station number 3's allocation:
+human assigned
+tasks assigned : 17 16 18 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 56
+
+
+1 4 2 3 5 20 8 7 9 6 10 11 12 14 13 17 15 16 18 19 21 22 23 = 418 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 5 20
+its cycle time : 418
+
+station number 2's allocation:
+human assigned
+tasks assigned : 8 7 9 6 10 11 12 14 13 17
+its cycle time : 401
+
+station number 3's allocation:
+human assigned
+tasks assigned : 15 16 18 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 57
+
+
+1 2 4 3 5 8 7 6 20 10 9 11 14 12 13 15 16 17 18 19 21 22 23 = 431 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 5 8 7
+its cycle time : 388
+
+station number 2's allocation:
+human assigned
+tasks assigned : 6 20 10 9 11 14 12 13 15
+its cycle time : 431
+
+station number 3's allocation:
+human assigned
+tasks assigned : 16 17 18 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 58
+
+
+1 4 2 3 8 9 7 20 5 6 10 11 12 14 13 17 18 15 16 19 21 22 23 = 441 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 8 9 7
+its cycle time : 378
+
+station number 2's allocation:
+human assigned
+tasks assigned : 20 5 6 10 11 12 14 13 17
+its cycle time : 441
+
+station number 3's allocation:
+human assigned
+tasks assigned : 18 15 16 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 59
+
+
+1 2 4 3 8 7 20 6 10 5 9 11 14 12 13 16 17 18 15 19 21 22 23 = 448 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 8 7 20
+its cycle time : 448
+
+station number 2's allocation:
+human assigned
+tasks assigned : 6 10 5 9 11 14 12 13 16 17
+its cycle time : 446
+
+station number 3's allocation:
+human assigned
+tasks assigned : 18 15 19 21 22 23
+its cycle time : 340
+
+
+SOLUTION NUMBER : 60
+
+
+1 2 3 20 5 8 9 4 7 6 10 11 14 12 13 18 15 17 16 19 21 22 23 = 438 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 20 5 8
+its cycle time : 438
+
+station number 2's allocation:
+human assigned
+tasks assigned : 9 4 7 6 10 11 14 12 13 18
+its cycle time : 381
+
+station number 3's allocation:
+human assigned
+tasks assigned : 15 17 16 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 61
+
+
+1 2 4 3 6 7 5 10 20 8 9 11 14 12 13 16 18 17 15 19 21 22 23 = 431 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 6 7 5
+its cycle time : 388
+
+station number 2's allocation:
+human assigned
+tasks assigned : 10 20 8 9 11 14 12 13 16
+its cycle time : 431
+
+station number 3's allocation:
+human assigned
+tasks assigned : 18 17 15 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 62
+
+
+1 4 2 3 6 7 8 20 10 9 11 14 12 5 13 16 18 17 15 19 21 22 23 = 431 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 6 7 8
+its cycle time : 388
+
+station number 2's allocation:
+human assigned
+tasks assigned : 20 10 9 11 14 12 5 13 16
+its cycle time : 431
+
+station number 3's allocation:
+human assigned
+tasks assigned : 18 17 15 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 63
+
+
+1 2 3 7 6 8 20 5 4 10 9 11 14 12 13 16 15 18 17 19 21 22 23 = 468 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 8 20
+its cycle time : 468
+
+station number 2's allocation:
+human assigned
+tasks assigned : 5 4 10 9 11 14 12 13 16 15
+its cycle time : 426
+
+station number 3's allocation:
+human assigned
+tasks assigned : 18 17 19 21 22 23
+its cycle time : 340
+
+
+SOLUTION NUMBER : 64
+
+
+1 2 4 3 8 9 20 7 6 10 11 14 5 12 13 17 18 15 16 19 21 22 23 = 468 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 8 9 20
+its cycle time : 468
+
+station number 2's allocation:
+human assigned
+tasks assigned : 7 6 10 11 14 5 12 13 17 18
+its cycle time : 426
+
+station number 3's allocation:
+human assigned
+tasks assigned : 15 16 19 21 22 23
+its cycle time : 340
+
+
+SOLUTION NUMBER : 65
+
+
+1 2 4 3 6 10 8 7 20 9 11 12 14 5 13 16 17 18 15 19 21 22 23 = 415 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 6 10 8
+its cycle time : 408
+
+station number 2's allocation:
+human assigned
+tasks assigned : 7 20 9 11 12 14 5 13 16
+its cycle time : 411
+
+station number 3's allocation:
+human assigned
+tasks assigned : 17 18 15 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 66
+
+
+1 2 4 3 20 7 8 9 6 5 10 11 12 14 13 15 16 17 18 19 21 22 23 = 431 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 20 7
+its cycle time : 388
+
+station number 2's allocation:
+human assigned
+tasks assigned : 8 9 6 5 10 11 12 14 13 15
+its cycle time : 431
+
+station number 3's allocation:
+human assigned
+tasks assigned : 16 17 18 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 67
+
+
+1 2 4 3 8 9 20 6 10 5 7 11 12 14 13 17 18 15 16 19 21 22 23 = 468 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 8 9 20
+its cycle time : 468
+
+station number 2's allocation:
+human assigned
+tasks assigned : 6 10 5 7 11 12 14 13 17 18
+its cycle time : 426
+
+station number 3's allocation:
+human assigned
+tasks assigned : 15 16 19 21 22 23
+its cycle time : 340
+
+
+SOLUTION NUMBER : 68
+
+
+1 2 3 8 9 4 7 20 5 6 10 11 12 14 13 17 18 15 16 19 21 22 23 = 441 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 8 9 4 7
+its cycle time : 378
+
+station number 2's allocation:
+human assigned
+tasks assigned : 20 5 6 10 11 12 14 13 17
+its cycle time : 441
+
+station number 3's allocation:
+human assigned
+tasks assigned : 18 15 16 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 69
+
+
+1 2 4 3 7 8 9 6 10 11 12 14 5 20 13 17 18 15 16 19 21 22 23 = 438 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 7 8 9 6
+its cycle time : 438
+
+station number 2's allocation:
+human assigned
+tasks assigned : 10 11 12 14 5 20 13 17
+its cycle time : 381
+
+station number 3's allocation:
+human assigned
+tasks assigned : 18 15 16 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 70
+
+
+1 4 2 3 5 8 9 7 6 20 10 11 14 12 13 15 16 17 18 19 21 22 23 = 415 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 5 8 9
+its cycle time : 408
+
+station number 2's allocation:
+human assigned
+tasks assigned : 7 6 20 10 11 14 12 13 15
+its cycle time : 411
+
+station number 3's allocation:
+human assigned
+tasks assigned : 16 17 18 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 71
+
+
+1 2 4 3 6 7 5 20 10 8 9 11 14 12 13 18 15 17 16 19 21 22 23 = 431 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 6 7 5
+its cycle time : 388
+
+station number 2's allocation:
+human assigned
+tasks assigned : 20 10 8 9 11 14 12 13 18
+its cycle time : 431
+
+station number 3's allocation:
+human assigned
+tasks assigned : 15 17 16 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 72
+
+
+1 2 4 3 8 20 9 5 7 6 10 11 14 12 13 18 15 17 16 19 21 22 23 = 418 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 8 20
+its cycle time : 418
+
+station number 2's allocation:
+human assigned
+tasks assigned : 9 5 7 6 10 11 14 12 13 18
+its cycle time : 401
+
+station number 3's allocation:
+human assigned
+tasks assigned : 15 17 16 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 73
+
+
+1 2 4 3 8 9 6 7 10 11 20 14 12 5 13 16 18 17 15 19 21 22 23 = 415 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 8 9 6
+its cycle time : 408
+
+station number 2's allocation:
+human assigned
+tasks assigned : 7 10 11 20 14 12 5 13 16
+its cycle time : 411
+
+station number 3's allocation:
+human assigned
+tasks assigned : 18 17 15 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 74
+
+
+1 2 4 3 7 8 9 6 20 10 11 12 14 5 13 16 17 18 15 19 21 22 23 = 438 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 7 8 9 6
+its cycle time : 438
+
+station number 2's allocation:
+human assigned
+tasks assigned : 20 10 11 12 14 5 13 16
+its cycle time : 381
+
+station number 3's allocation:
+human assigned
+tasks assigned : 17 18 15 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 75
+
+
+1 2 4 3 8 6 7 10 5 9 11 20 14 12 13 18 15 17 16 19 21 22 23 = 431 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 8 6 7
+its cycle time : 388
+
+station number 2's allocation:
+human assigned
+tasks assigned : 10 5 9 11 20 14 12 13 18
+its cycle time : 431
+
+station number 3's allocation:
+human assigned
+tasks assigned : 15 17 16 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 76
+
+
+1 2 3 6 7 4 20 10 5 8 9 11 14 12 13 16 18 17 15 19 21 22 23 = 448 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 6 7 4 20
+its cycle time : 448
+
+station number 2's allocation:
+human assigned
+tasks assigned : 10 5 8 9 11 14 12 13 16 18
+its cycle time : 446
+
+station number 3's allocation:
+human assigned
+tasks assigned : 17 15 19 21 22 23
+its cycle time : 340
+
+
+SOLUTION NUMBER : 77
+
+
+1 2 4 3 6 10 7 20 8 9 11 14 12 5 13 16 18 17 15 19 21 22 23 = 441 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 6 10 7
+its cycle time : 378
+
+station number 2's allocation:
+human assigned
+tasks assigned : 20 8 9 11 14 12 5 13 16
+its cycle time : 441
+
+station number 3's allocation:
+human assigned
+tasks assigned : 18 17 15 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 78
+
+
+1 2 4 3 8 9 7 20 5 6 10 11 12 14 13 17 18 15 16 19 21 22 23 = 441 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 8 9 7
+its cycle time : 378
+
+station number 2's allocation:
+human assigned
+tasks assigned : 20 5 6 10 11 12 14 13 17
+its cycle time : 441
+
+station number 3's allocation:
+human assigned
+tasks assigned : 18 15 16 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 79
+
+
+1 2 4 3 8 9 7 20 6 10 11 14 12 5 13 18 15 17 16 19 21 22 23 = 441 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 8 9 7
+its cycle time : 378
+
+station number 2's allocation:
+human assigned
+tasks assigned : 20 6 10 11 14 12 5 13 18
+its cycle time : 441
+
+station number 3's allocation:
+human assigned
+tasks assigned : 15 17 16 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 80
+
+
+1 4 2 3 5 20 7 8 9 6 10 11 14 12 13 18 15 17 16 19 21 22 23 = 418 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 5 20
+its cycle time : 418
+
+station number 2's allocation:
+human assigned
+tasks assigned : 7 8 9 6 10 11 14 12 13 18
+its cycle time : 401
+
+station number 3's allocation:
+human assigned
+tasks assigned : 15 17 16 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 81
+
+
+1 2 3 4 5 8 9 20 7 6 10 11 14 12 13 18 15 17 16 19 21 22 23 = 415 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 4 5 8 9
+its cycle time : 408
+
+station number 2's allocation:
+human assigned
+tasks assigned : 20 7 6 10 11 14 12 13 18
+its cycle time : 411
+
+station number 3's allocation:
+human assigned
+tasks assigned : 15 17 16 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 82
+
+
+1 4 2 3 8 9 7 20 5 6 10 11 14 12 13 16 17 18 15 19 21 22 23 = 441 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 8 9 7
+its cycle time : 378
+
+station number 2's allocation:
+human assigned
+tasks assigned : 20 5 6 10 11 14 12 13 16
+its cycle time : 441
+
+station number 3's allocation:
+human assigned
+tasks assigned : 17 18 15 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 83
+
+
+1 2 4 3 8 9 7 6 10 20 11 12 14 5 13 16 17 18 15 19 21 22 23 = 438 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 8 9 7 6
+its cycle time : 438
+
+station number 2's allocation:
+human assigned
+tasks assigned : 10 20 11 12 14 5 13 16
+its cycle time : 381
+
+station number 3's allocation:
+human assigned
+tasks assigned : 17 18 15 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 84
+
+
+1 2 4 3 20 5 8 6 9 10 11 14 7 12 13 18 16 17 15 19 21 22 23 = 418 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 20 5
+its cycle time : 418
+
+station number 2's allocation:
+human assigned
+tasks assigned : 8 6 9 10 11 14 7 12 13 18
+its cycle time : 401
+
+station number 3's allocation:
+human assigned
+tasks assigned : 16 17 15 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 85
+
+
+1 4 2 3 5 8 9 7 6 20 10 11 14 12 13 15 17 16 18 19 21 22 23 = 415 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 5 8 9
+its cycle time : 408
+
+station number 2's allocation:
+human assigned
+tasks assigned : 7 6 20 10 11 14 12 13 15
+its cycle time : 411
+
+station number 3's allocation:
+human assigned
+tasks assigned : 17 16 18 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 86
+
+
+1 2 4 3 5 20 6 8 10 9 11 14 7 12 13 16 18 17 15 19 21 22 23 = 418 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 5 20
+its cycle time : 418
+
+station number 2's allocation:
+human assigned
+tasks assigned : 6 8 10 9 11 14 7 12 13 16
+its cycle time : 401
+
+station number 3's allocation:
+human assigned
+tasks assigned : 18 17 15 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 87
+
+
+1 4 2 3 8 9 6 20 5 10 11 14 7 12 13 16 18 17 15 19 21 22 23 = 415 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 8 9 6
+its cycle time : 408
+
+station number 2's allocation:
+human assigned
+tasks assigned : 20 5 10 11 14 7 12 13 16
+its cycle time : 411
+
+station number 3's allocation:
+human assigned
+tasks assigned : 18 17 15 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 88
+
+
+1 2 4 3 8 9 7 20 6 10 11 12 14 5 13 16 17 18 15 19 21 22 23 = 441 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 8 9 7
+its cycle time : 378
+
+station number 2's allocation:
+human assigned
+tasks assigned : 20 6 10 11 12 14 5 13 16
+its cycle time : 441
+
+station number 3's allocation:
+human assigned
+tasks assigned : 17 18 15 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 89
+
+
+1 2 4 3 8 5 9 7 20 6 10 11 14 12 13 18 16 17 15 19 21 22 23 = 415 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 8 5 9
+its cycle time : 408
+
+station number 2's allocation:
+human assigned
+tasks assigned : 7 20 6 10 11 14 12 13 18
+its cycle time : 411
+
+station number 3's allocation:
+human assigned
+tasks assigned : 16 17 15 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 90
+
+
+1 2 4 3 8 9 20 6 10 5 11 14 7 12 13 16 17 18 15 19 21 22 23 = 468 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 8 9 20
+its cycle time : 468
+
+station number 2's allocation:
+human assigned
+tasks assigned : 6 10 5 11 14 7 12 13 16 17
+its cycle time : 426
+
+station number 3's allocation:
+human assigned
+tasks assigned : 18 15 19 21 22 23
+its cycle time : 340
+
+
+SOLUTION NUMBER : 91
+
+
+1 2 4 3 8 9 7 20 6 10 11 14 5 12 13 15 17 16 18 19 21 22 23 = 441 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 8 9 7
+its cycle time : 378
+
+station number 2's allocation:
+human assigned
+tasks assigned : 20 6 10 11 14 5 12 13 15
+its cycle time : 441
+
+station number 3's allocation:
+human assigned
+tasks assigned : 17 16 18 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 92
+
+
+1 2 3 4 5 8 9 20 7 6 10 11 14 12 13 16 18 17 15 19 21 22 23 = 415 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 4 5 8 9
+its cycle time : 408
+
+station number 2's allocation:
+human assigned
+tasks assigned : 20 7 6 10 11 14 12 13 16
+its cycle time : 411
+
+station number 3's allocation:
+human assigned
+tasks assigned : 18 17 15 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 93
+
+
+1 2 4 3 8 20 6 10 5 9 11 14 7 12 13 18 15 17 16 19 21 22 23 = 418 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 8 20
+its cycle time : 418
+
+station number 2's allocation:
+human assigned
+tasks assigned : 6 10 5 9 11 14 7 12 13 18
+its cycle time : 401
+
+station number 3's allocation:
+human assigned
+tasks assigned : 15 17 16 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 94
+
+
+1 2 4 3 8 9 6 20 10 11 14 7 12 5 13 17 18 15 16 19 21 22 23 = 415 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 8 9 6
+its cycle time : 408
+
+station number 2's allocation:
+human assigned
+tasks assigned : 20 10 11 14 7 12 5 13 17
+its cycle time : 411
+
+station number 3's allocation:
+human assigned
+tasks assigned : 18 15 16 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 95
+
+
+1 2 4 3 8 9 7 20 6 10 11 5 14 12 13 18 15 17 16 19 21 22 23 = 441 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 8 9 7
+its cycle time : 378
+
+station number 2's allocation:
+human assigned
+tasks assigned : 20 6 10 11 5 14 12 13 18
+its cycle time : 441
+
+station number 3's allocation:
+human assigned
+tasks assigned : 15 17 16 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 96
+
+
+1 2 4 3 8 9 20 5 7 6 10 11 14 12 13 18 15 17 16 19 21 22 23 = 468 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 8 9 20
+its cycle time : 468
+
+station number 2's allocation:
+human assigned
+tasks assigned : 5 7 6 10 11 14 12 13 18 15
+its cycle time : 426
+
+station number 3's allocation:
+human assigned
+tasks assigned : 17 16 19 21 22 23
+its cycle time : 340
+
+
+SOLUTION NUMBER : 97
+
+
+1 2 4 3 6 5 20 10 7 8 9 11 12 14 13 17 15 16 18 19 21 22 23 = 461 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 6 5
+its cycle time : 358
+
+station number 2's allocation:
+human assigned
+tasks assigned : 20 10 7 8 9 11 12 14 13 17
+its cycle time : 461
+
+station number 3's allocation:
+human assigned
+tasks assigned : 15 16 18 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 98
+
+
+1 4 2 3 5 8 7 6 20 9 10 11 12 14 13 17 15 16 18 19 21 22 23 = 431 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 5 8 7
+its cycle time : 388
+
+station number 2's allocation:
+human assigned
+tasks assigned : 6 20 9 10 11 12 14 13 17
+its cycle time : 431
+
+station number 3's allocation:
+human assigned
+tasks assigned : 15 16 18 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 99
+
+
+1 2 4 3 7 5 20 8 9 6 10 11 14 12 13 18 15 17 16 19 21 22 23 = 448 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 7 5 20
+its cycle time : 448
+
+station number 2's allocation:
+human assigned
+tasks assigned : 8 9 6 10 11 14 12 13 18 15
+its cycle time : 446
+
+station number 3's allocation:
+human assigned
+tasks assigned : 17 16 19 21 22 23
+its cycle time : 340
+
+
+SOLUTION NUMBER : 100
+
+
+1 4 2 3 8 9 6 20 5 10 11 7 14 12 13 15 16 17 18 19 21 22 23 = 415 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 8 9 6
+its cycle time : 408
+
+station number 2's allocation:
+human assigned
+tasks assigned : 20 5 10 11 7 14 12 13 15
+its cycle time : 411
+
+station number 3's allocation:
+human assigned
+tasks assigned : 16 17 18 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 101
+
+
+1 2 4 3 7 6 20 10 5 8 9 11 12 14 13 15 17 16 18 19 21 22 23 = 448 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 7 6 20
+its cycle time : 448
+
+station number 2's allocation:
+human assigned
+tasks assigned : 10 5 8 9 11 12 14 13 15 17
+its cycle time : 446
+
+station number 3's allocation:
+human assigned
+tasks assigned : 16 18 19 21 22 23
+its cycle time : 340
+
+
+SOLUTION NUMBER : 102
+
+
+1 2 4 3 7 6 5 20 8 10 9 11 12 14 13 17 15 16 18 19 21 22 23 = 431 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 7 6 5
+its cycle time : 388
+
+station number 2's allocation:
+human assigned
+tasks assigned : 20 8 10 9 11 12 14 13 17
+its cycle time : 431
+
+station number 3's allocation:
+human assigned
+tasks assigned : 15 16 18 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 103
+
+
+1 4 2 3 7 5 8 20 6 9 10 11 12 14 13 17 15 16 18 19 21 22 23 = 431 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 7 5 8
+its cycle time : 388
+
+station number 2's allocation:
+human assigned
+tasks assigned : 20 6 9 10 11 12 14 13 17
+its cycle time : 431
+
+station number 3's allocation:
+human assigned
+tasks assigned : 15 16 18 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 104
+
+
+1 2 3 4 5 8 20 6 7 9 10 11 12 14 13 17 15 16 18 19 21 22 23 = 461 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 4 5 8
+its cycle time : 358
+
+station number 2's allocation:
+human assigned
+tasks assigned : 20 6 7 9 10 11 12 14 13 17
+its cycle time : 461
+
+station number 3's allocation:
+human assigned
+tasks assigned : 15 16 18 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 105
+
+
+1 2 4 3 7 6 8 20 5 10 9 11 14 12 13 18 16 17 15 19 21 22 23 = 431 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 7 6 8
+its cycle time : 388
+
+station number 2's allocation:
+human assigned
+tasks assigned : 20 5 10 9 11 14 12 13 18
+its cycle time : 431
+
+station number 3's allocation:
+human assigned
+tasks assigned : 16 17 15 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 106
+
+
+1 2 4 3 7 8 9 20 5 6 10 11 14 12 13 18 16 17 15 19 21 22 23 = 441 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 7 8 9
+its cycle time : 378
+
+station number 2's allocation:
+human assigned
+tasks assigned : 20 5 6 10 11 14 12 13 18
+its cycle time : 441
+
+station number 3's allocation:
+human assigned
+tasks assigned : 16 17 15 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 107
+
+
+1 2 4 3 6 5 20 10 7 8 9 11 14 12 13 18 15 17 16 19 21 22 23 = 461 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 6 5
+its cycle time : 358
+
+station number 2's allocation:
+human assigned
+tasks assigned : 20 10 7 8 9 11 14 12 13 18
+its cycle time : 461
+
+station number 3's allocation:
+human assigned
+tasks assigned : 15 17 16 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 108
+
+
+1 2 3 7 6 8 4 5 9 10 11 12 14 13 20 18 16 17 15 19 21 22 23 = 431 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 8 4
+its cycle time : 388
+
+station number 2's allocation:
+human assigned
+tasks assigned : 5 9 10 11 12 14 13 20 18
+its cycle time : 431
+
+station number 3's allocation:
+human assigned
+tasks assigned : 16 17 15 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 109
+
+
+1 2 3 7 6 8 9 5 10 11 20 14 12 13 17 15 18 16 19 21 22 4 23 = 455 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 8 9
+its cycle time : 398
+
+station number 2's allocation:
+human assigned
+tasks assigned : 5 10 11 20 14 12 13 17
+its cycle time : 381
+
+station number 3's allocation:
+human assigned
+tasks assigned : 15 18 16 19 21 22 4 23
+its cycle time : 455
+
+
+SOLUTION NUMBER : 110
+
+
+1 2 4 3 7 8 9 5 6 20 10 11 12 14 13 17 15 16 18 19 21 22 23 = 438 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 7 8 9 5
+its cycle time : 438
+
+station number 2's allocation:
+human assigned
+tasks assigned : 6 20 10 11 12 14 13 17
+its cycle time : 381
+
+station number 3's allocation:
+human assigned
+tasks assigned : 15 16 18 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 111
+
+
+1 4 2 3 7 5 8 20 6 10 9 11 14 12 13 18 15 17 16 19 21 22 23 = 431 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 7 5 8
+its cycle time : 388
+
+station number 2's allocation:
+human assigned
+tasks assigned : 20 6 10 9 11 14 12 13 18
+its cycle time : 431
+
+station number 3's allocation:
+human assigned
+tasks assigned : 15 17 16 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 112
+
+
+1 2 4 3 7 8 6 5 9 20 10 11 12 14 13 15 17 16 18 19 21 22 23 = 431 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 7 8 6
+its cycle time : 388
+
+station number 2's allocation:
+human assigned
+tasks assigned : 5 9 20 10 11 12 14 13 15
+its cycle time : 431
+
+station number 3's allocation:
+human assigned
+tasks assigned : 17 16 18 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 113
+
+
+1 2 3 7 6 8 20 10 5 9 11 4 14 12 13 18 15 17 16 19 21 22 23 = 468 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 8 20
+its cycle time : 468
+
+station number 2's allocation:
+human assigned
+tasks assigned : 10 5 9 11 4 14 12 13 18 15
+its cycle time : 426
+
+station number 3's allocation:
+human assigned
+tasks assigned : 17 16 19 21 22 23
+its cycle time : 340
+
+
+SOLUTION NUMBER : 114
+
+
+1 2 3 7 6 20 5 10 8 9 11 14 12 13 17 15 18 16 19 21 22 4 23 = 446 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 20
+its cycle time : 408
+
+station number 2's allocation:
+human assigned
+tasks assigned : 5 10 8 9 11 14 12 13 17 15
+its cycle time : 446
+
+station number 3's allocation:
+human assigned
+tasks assigned : 18 16 19 21 22 4 23
+its cycle time : 380
+
+
+SOLUTION NUMBER : 115
+
+
+1 2 3 6 7 8 20 5 4 10 9 11 14 12 13 18 15 17 16 19 21 22 23 = 468 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 6 7 8 20
+its cycle time : 468
+
+station number 2's allocation:
+human assigned
+tasks assigned : 5 4 10 9 11 14 12 13 18 15
+its cycle time : 426
+
+station number 3's allocation:
+human assigned
+tasks assigned : 17 16 19 21 22 23
+its cycle time : 340
+
+
+SOLUTION NUMBER : 116
+
+
+1 2 3 7 6 4 20 10 5 8 9 11 14 12 13 18 15 17 16 19 21 22 23 = 448 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 4 20
+its cycle time : 448
+
+station number 2's allocation:
+human assigned
+tasks assigned : 10 5 8 9 11 14 12 13 18 15
+its cycle time : 446
+
+station number 3's allocation:
+human assigned
+tasks assigned : 17 16 19 21 22 23
+its cycle time : 340
+
+
+SOLUTION NUMBER : 117
+
+
+1 2 3 7 6 8 20 5 4 9 10 11 14 12 13 16 15 18 17 19 21 22 23 = 468 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 8 20
+its cycle time : 468
+
+station number 2's allocation:
+human assigned
+tasks assigned : 5 4 9 10 11 14 12 13 16 15
+its cycle time : 426
+
+station number 3's allocation:
+human assigned
+tasks assigned : 18 17 19 21 22 23
+its cycle time : 340
+
+
+SOLUTION NUMBER : 118
+
+
+1 2 3 7 6 8 20 5 4 9 10 11 12 14 13 17 18 15 16 19 21 22 23 = 468 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 8 20
+its cycle time : 468
+
+station number 2's allocation:
+human assigned
+tasks assigned : 5 4 9 10 11 12 14 13 17 18
+its cycle time : 426
+
+station number 3's allocation:
+human assigned
+tasks assigned : 15 16 19 21 22 23
+its cycle time : 340
+
+
+SOLUTION NUMBER : 119
+
+
+1 2 4 3 8 9 7 20 6 10 11 5 14 12 13 16 15 17 18 19 21 22 23 = 441 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 8 9 7
+its cycle time : 378
+
+station number 2's allocation:
+human assigned
+tasks assigned : 20 6 10 11 5 14 12 13 16
+its cycle time : 441
+
+station number 3's allocation:
+human assigned
+tasks assigned : 15 17 18 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 120
+
+
+1 2 4 3 6 8 20 5 7 10 9 11 14 12 13 16 15 18 17 19 21 22 23 = 461 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 6 8
+its cycle time : 358
+
+station number 2's allocation:
+human assigned
+tasks assigned : 20 5 7 10 9 11 14 12 13 16
+its cycle time : 461
+
+station number 3's allocation:
+human assigned
+tasks assigned : 15 18 17 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 121
+
+
+1 2 4 3 7 6 20 10 5 8 9 11 14 12 13 16 18 17 15 19 21 22 23 = 448 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 7 6 20
+its cycle time : 448
+
+station number 2's allocation:
+human assigned
+tasks assigned : 10 5 8 9 11 14 12 13 16 18
+its cycle time : 446
+
+station number 3's allocation:
+human assigned
+tasks assigned : 17 15 19 21 22 23
+its cycle time : 340
+
+
+SOLUTION NUMBER : 122
+
+
+1 2 4 3 6 8 20 5 9 10 11 14 7 12 13 18 16 17 15 19 21 22 23 = 461 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 6 8
+its cycle time : 358
+
+station number 2's allocation:
+human assigned
+tasks assigned : 20 5 9 10 11 14 7 12 13 18
+its cycle time : 461
+
+station number 3's allocation:
+human assigned
+tasks assigned : 16 17 15 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 123
+
+
+1 2 3 7 6 20 10 4 8 9 11 5 14 12 13 18 15 17 16 19 21 22 23 = 415 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 20
+its cycle time : 408
+
+station number 2's allocation:
+human assigned
+tasks assigned : 10 4 8 9 11 5 14 12 13 18
+its cycle time : 411
+
+station number 3's allocation:
+human assigned
+tasks assigned : 15 17 16 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 124
+
+
+1 2 3 7 6 8 20 4 9 5 10 11 12 14 13 15 17 16 18 19 21 22 23 = 468 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 8 20
+its cycle time : 468
+
+station number 2's allocation:
+human assigned
+tasks assigned : 4 9 5 10 11 12 14 13 15 17
+its cycle time : 426
+
+station number 3's allocation:
+human assigned
+tasks assigned : 16 18 19 21 22 23
+its cycle time : 340
+
+
+SOLUTION NUMBER : 125
+
+
+1 2 3 7 6 5 20 10 4 8 9 11 12 14 13 15 17 16 18 19 21 22 23 = 468 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 5 20
+its cycle time : 468
+
+station number 2's allocation:
+human assigned
+tasks assigned : 10 4 8 9 11 12 14 13 15 17
+its cycle time : 426
+
+station number 3's allocation:
+human assigned
+tasks assigned : 16 18 19 21 22 23
+its cycle time : 340
+
+
+SOLUTION NUMBER : 126
+
+
+1 2 3 7 6 8 20 5 4 10 9 11 14 12 13 16 17 18 15 19 21 22 23 = 468 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 8 20
+its cycle time : 468
+
+station number 2's allocation:
+human assigned
+tasks assigned : 5 4 10 9 11 14 12 13 16 17
+its cycle time : 426
+
+station number 3's allocation:
+human assigned
+tasks assigned : 18 15 19 21 22 23
+its cycle time : 340
+
+
+SOLUTION NUMBER : 127
+
+
+1 2 3 7 6 8 5 10 4 9 20 11 12 14 13 17 18 15 16 19 21 22 23 = 415 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 8 5
+its cycle time : 408
+
+station number 2's allocation:
+human assigned
+tasks assigned : 10 4 9 20 11 12 14 13 17
+its cycle time : 411
+
+station number 3's allocation:
+human assigned
+tasks assigned : 18 15 16 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 128
+
+
+1 2 3 7 6 8 20 5 9 10 11 14 12 13 17 15 18 16 19 21 22 4 23 = 455 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 8
+its cycle time : 348
+
+station number 2's allocation:
+human assigned
+tasks assigned : 20 5 9 10 11 14 12 13 17
+its cycle time : 431
+
+station number 3's allocation:
+human assigned
+tasks assigned : 15 18 16 19 21 22 4 23
+its cycle time : 455
+
+
+SOLUTION NUMBER : 129
+
+
+1 4 2 3 7 5 8 20 6 9 10 11 12 14 13 17 18 15 16 19 21 22 23 = 431 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 7 5 8
+its cycle time : 388
+
+station number 2's allocation:
+human assigned
+tasks assigned : 20 6 9 10 11 12 14 13 17
+its cycle time : 431
+
+station number 3's allocation:
+human assigned
+tasks assigned : 18 15 16 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 130
+
+
+1 2 3 6 7 5 10 4 8 9 20 11 12 14 13 17 18 15 16 19 21 22 23 = 421 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 6 7 5 10
+its cycle time : 398
+
+station number 2's allocation:
+human assigned
+tasks assigned : 4 8 9 20 11 12 14 13 17
+its cycle time : 421
+
+station number 3's allocation:
+human assigned
+tasks assigned : 18 15 16 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 131
+
+
+1 2 3 7 6 8 20 10 5 9 11 4 12 14 13 17 15 16 18 19 21 22 23 = 468 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 8 20
+its cycle time : 468
+
+station number 2's allocation:
+human assigned
+tasks assigned : 10 5 9 11 4 12 14 13 17 15
+its cycle time : 426
+
+station number 3's allocation:
+human assigned
+tasks assigned : 16 18 19 21 22 23
+its cycle time : 340
+
+
+SOLUTION NUMBER : 132
+
+
+1 2 3 7 6 20 10 4 5 8 9 11 12 14 13 17 15 16 18 19 21 22 23 = 415 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 20
+its cycle time : 408
+
+station number 2's allocation:
+human assigned
+tasks assigned : 10 4 5 8 9 11 12 14 13 17
+its cycle time : 411
+
+station number 3's allocation:
+human assigned
+tasks assigned : 15 16 18 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 133
+
+
+1 2 3 7 6 5 20 4 10 8 9 11 14 12 13 18 16 17 15 19 21 22 23 = 468 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 5 20
+its cycle time : 468
+
+station number 2's allocation:
+human assigned
+tasks assigned : 4 10 8 9 11 14 12 13 18 16
+its cycle time : 426
+
+station number 3's allocation:
+human assigned
+tasks assigned : 17 15 19 21 22 23
+its cycle time : 340
+
+
+SOLUTION NUMBER : 134
+
+
+1 2 4 3 6 20 7 10 8 9 11 14 12 5 13 16 18 17 15 19 21 22 23 = 418 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 6 20
+its cycle time : 418
+
+station number 2's allocation:
+human assigned
+tasks assigned : 7 10 8 9 11 14 12 5 13 16
+its cycle time : 401
+
+station number 3's allocation:
+human assigned
+tasks assigned : 18 17 15 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 135
+
+
+1 2 4 3 7 20 8 9 5 6 10 11 14 12 13 18 15 17 16 19 21 22 23 = 431 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 7 20
+its cycle time : 388
+
+station number 2's allocation:
+human assigned
+tasks assigned : 8 9 5 6 10 11 14 12 13 18
+its cycle time : 431
+
+station number 3's allocation:
+human assigned
+tasks assigned : 15 17 16 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 136
+
+
+1 2 3 7 6 8 20 4 9 5 10 11 12 13 16 18 17 15 14 19 21 22 23 = 446 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 8
+its cycle time : 348
+
+station number 2's allocation:
+human assigned
+tasks assigned : 20 4 9 5 10 11 12 13 16
+its cycle time : 446
+
+station number 3's allocation:
+human assigned
+tasks assigned : 18 17 15 14 19 21 22 23
+its cycle time : 440
+
+
+SOLUTION NUMBER : 137
+
+
+1 2 3 7 6 8 20 5 9 10 11 14 12 13 17 15 18 16 19 4 21 22 23 = 455 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 8
+its cycle time : 348
+
+station number 2's allocation:
+human assigned
+tasks assigned : 20 5 9 10 11 14 12 13 17
+its cycle time : 431
+
+station number 3's allocation:
+human assigned
+tasks assigned : 15 18 16 19 4 21 22 23
+its cycle time : 455
+
+
+SOLUTION NUMBER : 138
+
+
+1 2 3 6 7 5 10 8 20 9 11 12 14 13 18 15 16 17 19 21 22 4 23 = 455 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 6 7 5 10
+its cycle time : 398
+
+station number 2's allocation:
+human assigned
+tasks assigned : 8 20 9 11 12 14 13 18
+its cycle time : 381
+
+station number 3's allocation:
+human assigned
+tasks assigned : 15 16 17 19 21 22 4 23
+its cycle time : 455
+
+
+SOLUTION NUMBER : 139
+
+
+1 2 3 7 6 8 20 5 4 10 9 11 14 12 13 18 15 17 16 19 21 22 23 = 468 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 8 20
+its cycle time : 468
+
+station number 2's allocation:
+human assigned
+tasks assigned : 5 4 10 9 11 14 12 13 18 15
+its cycle time : 426
+
+station number 3's allocation:
+human assigned
+tasks assigned : 17 16 19 21 22 23
+its cycle time : 340
+
+
+SOLUTION NUMBER : 140
+
+
+1 2 4 3 8 7 9 20 6 5 10 11 12 13 18 16 15 17 14 19 21 22 23 = 440 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 8 7 9
+its cycle time : 378
+
+station number 2's allocation:
+human assigned
+tasks assigned : 20 6 5 10 11 12 13 18
+its cycle time : 416
+
+station number 3's allocation:
+human assigned
+tasks assigned : 16 15 17 14 19 21 22 23
+its cycle time : 440
+
+
+SOLUTION NUMBER : 141
+
+
+1 2 4 3 7 5 8 20 6 9 10 11 12 14 13 15 17 16 18 19 21 22 23 = 431 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 7 5 8
+its cycle time : 388
+
+station number 2's allocation:
+human assigned
+tasks assigned : 20 6 9 10 11 12 14 13 15
+its cycle time : 431
+
+station number 3's allocation:
+human assigned
+tasks assigned : 17 16 18 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 142
+
+
+1 2 4 3 6 5 20 10 7 8 9 11 14 12 13 16 18 17 15 19 21 22 23 = 461 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 6 5
+its cycle time : 358
+
+station number 2's allocation:
+human assigned
+tasks assigned : 20 10 7 8 9 11 14 12 13 16
+its cycle time : 461
+
+station number 3's allocation:
+human assigned
+tasks assigned : 18 17 15 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 143
+
+
+1 2 4 3 7 6 20 8 10 5 9 11 12 14 13 15 17 16 18 19 21 22 23 = 448 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 7 6 20
+its cycle time : 448
+
+station number 2's allocation:
+human assigned
+tasks assigned : 8 10 5 9 11 12 14 13 15 17
+its cycle time : 446
+
+station number 3's allocation:
+human assigned
+tasks assigned : 16 18 19 21 22 23
+its cycle time : 340
+
+
+SOLUTION NUMBER : 144
+
+
+1 2 3 7 6 8 20 5 9 10 11 14 12 13 4 16 15 18 17 19 21 22 23 = 468 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 8 20
+its cycle time : 468
+
+station number 2's allocation:
+human assigned
+tasks assigned : 5 9 10 11 14 12 13 4 16 15
+its cycle time : 426
+
+station number 3's allocation:
+human assigned
+tasks assigned : 18 17 19 21 22 23
+its cycle time : 340
+
+
+SOLUTION NUMBER : 145
+
+
+1 2 3 6 7 5 10 8 20 9 11 12 14 13 18 15 17 16 19 21 22 4 23 = 455 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 6 7 5 10
+its cycle time : 398
+
+station number 2's allocation:
+human assigned
+tasks assigned : 8 20 9 11 12 14 13 18
+its cycle time : 381
+
+station number 3's allocation:
+human assigned
+tasks assigned : 15 17 16 19 21 22 4 23
+its cycle time : 455
+
+
+SOLUTION NUMBER : 146
+
+
+1 2 4 3 7 6 8 20 10 9 11 14 12 5 13 16 18 17 15 19 21 22 23 = 431 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 7 6 8
+its cycle time : 388
+
+station number 2's allocation:
+human assigned
+tasks assigned : 20 10 9 11 14 12 5 13 16
+its cycle time : 431
+
+station number 3's allocation:
+human assigned
+tasks assigned : 18 17 15 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 147
+
+
+1 2 4 3 8 7 6 10 20 9 11 14 12 5 13 16 18 17 15 19 21 22 23 = 431 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 8 7 6
+its cycle time : 388
+
+station number 2's allocation:
+human assigned
+tasks assigned : 10 20 9 11 14 12 5 13 16
+its cycle time : 431
+
+station number 3's allocation:
+human assigned
+tasks assigned : 18 17 15 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 148
+
+
+1 2 4 3 6 5 8 20 10 9 11 14 7 12 13 16 18 17 15 19 21 22 23 = 418 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 6 5 8
+its cycle time : 418
+
+station number 2's allocation:
+human assigned
+tasks assigned : 20 10 9 11 14 7 12 13 16
+its cycle time : 401
+
+station number 3's allocation:
+human assigned
+tasks assigned : 18 17 15 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 149
+
+
+1 2 3 7 6 8 20 5 4 9 10 11 12 14 13 17 15 16 18 19 21 22 23 = 468 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 8 20
+its cycle time : 468
+
+station number 2's allocation:
+human assigned
+tasks assigned : 5 4 9 10 11 12 14 13 17 15
+its cycle time : 426
+
+station number 3's allocation:
+human assigned
+tasks assigned : 16 18 19 21 22 23
+its cycle time : 340
+
+
+SOLUTION NUMBER : 150
+
+
+1 2 3 7 6 20 5 4 10 8 9 11 14 12 13 18 16 17 15 19 21 22 23 = 415 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 20
+its cycle time : 408
+
+station number 2's allocation:
+human assigned
+tasks assigned : 5 4 10 8 9 11 14 12 13 18
+its cycle time : 411
+
+station number 3's allocation:
+human assigned
+tasks assigned : 16 17 15 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 151
+
+
+1 2 3 7 6 20 10 4 8 9 11 12 14 5 13 18 16 17 15 19 21 22 23 = 415 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 20
+its cycle time : 408
+
+station number 2's allocation:
+human assigned
+tasks assigned : 10 4 8 9 11 12 14 5 13 18
+its cycle time : 411
+
+station number 3's allocation:
+human assigned
+tasks assigned : 16 17 15 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 152
+
+
+1 2 4 3 7 20 8 6 9 10 11 12 14 5 13 18 16 17 15 19 21 22 23 = 431 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 7 20
+its cycle time : 388
+
+station number 2's allocation:
+human assigned
+tasks assigned : 8 6 9 10 11 12 14 5 13 18
+its cycle time : 431
+
+station number 3's allocation:
+human assigned
+tasks assigned : 16 17 15 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 153
+
+
+1 2 3 7 6 20 10 4 5 8 9 11 12 14 13 17 18 15 16 19 21 22 23 = 415 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 20
+its cycle time : 408
+
+station number 2's allocation:
+human assigned
+tasks assigned : 10 4 5 8 9 11 12 14 13 17
+its cycle time : 411
+
+station number 3's allocation:
+human assigned
+tasks assigned : 18 15 16 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 154
+
+
+1 2 3 7 6 8 10 4 5 9 11 20 14 12 13 18 15 17 16 19 21 22 23 = 421 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 8 10
+its cycle time : 398
+
+station number 2's allocation:
+human assigned
+tasks assigned : 4 5 9 11 20 14 12 13 18
+its cycle time : 421
+
+station number 3's allocation:
+human assigned
+tasks assigned : 15 17 16 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 155
+
+
+1 2 3 7 6 20 10 4 8 9 11 12 14 5 13 16 17 18 15 19 21 22 23 = 415 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 20
+its cycle time : 408
+
+station number 2's allocation:
+human assigned
+tasks assigned : 10 4 8 9 11 12 14 5 13 16
+its cycle time : 411
+
+station number 3's allocation:
+human assigned
+tasks assigned : 17 18 15 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 156
+
+
+1 2 4 3 6 20 10 8 9 11 14 7 12 5 13 16 18 17 15 19 21 22 23 = 418 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 6 20
+its cycle time : 418
+
+station number 2's allocation:
+human assigned
+tasks assigned : 10 8 9 11 14 7 12 5 13 16
+its cycle time : 401
+
+station number 3's allocation:
+human assigned
+tasks assigned : 18 17 15 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 157
+
+
+1 4 2 3 7 6 20 5 10 8 9 11 12 14 13 17 15 16 18 19 21 22 23 = 448 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 7 6 20
+its cycle time : 448
+
+station number 2's allocation:
+human assigned
+tasks assigned : 5 10 8 9 11 12 14 13 17 15
+its cycle time : 446
+
+station number 3's allocation:
+human assigned
+tasks assigned : 16 18 19 21 22 23
+its cycle time : 340
+
+
+SOLUTION NUMBER : 158
+
+
+1 2 4 3 6 7 10 8 20 9 11 12 14 5 13 16 17 18 15 19 21 22 23 = 438 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 6 7 10 8
+its cycle time : 438
+
+station number 2's allocation:
+human assigned
+tasks assigned : 20 9 11 12 14 5 13 16
+its cycle time : 381
+
+station number 3's allocation:
+human assigned
+tasks assigned : 17 18 15 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 159
+
+
+1 2 3 7 6 20 10 4 8 9 5 11 12 14 13 17 18 15 16 19 21 22 23 = 415 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 20
+its cycle time : 408
+
+station number 2's allocation:
+human assigned
+tasks assigned : 10 4 8 9 5 11 12 14 13 17
+its cycle time : 411
+
+station number 3's allocation:
+human assigned
+tasks assigned : 18 15 16 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 160
+
+
+1 2 3 7 6 20 10 4 8 9 11 5 12 14 13 15 16 17 18 19 21 22 23 = 415 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 20
+its cycle time : 408
+
+station number 2's allocation:
+human assigned
+tasks assigned : 10 4 8 9 11 5 12 14 13 15
+its cycle time : 411
+
+station number 3's allocation:
+human assigned
+tasks assigned : 16 17 18 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 161
+
+
+1 2 4 3 7 6 20 10 8 9 11 12 14 5 13 18 16 17 15 19 21 22 23 = 448 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 7 6 20
+its cycle time : 448
+
+station number 2's allocation:
+human assigned
+tasks assigned : 10 8 9 11 12 14 5 13 18 16
+its cycle time : 446
+
+station number 3's allocation:
+human assigned
+tasks assigned : 17 15 19 21 22 23
+its cycle time : 340
+
+
+SOLUTION NUMBER : 162
+
+
+1 2 3 7 6 20 10 4 5 8 9 11 12 14 13 17 18 16 15 19 21 22 23 = 415 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 20
+its cycle time : 408
+
+station number 2's allocation:
+human assigned
+tasks assigned : 10 4 5 8 9 11 12 14 13 17
+its cycle time : 411
+
+station number 3's allocation:
+human assigned
+tasks assigned : 18 16 15 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 163
+
+
+1 2 4 3 6 20 10 8 5 9 11 14 7 12 13 18 15 17 16 19 21 22 23 = 418 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 6 20
+its cycle time : 418
+
+station number 2's allocation:
+human assigned
+tasks assigned : 10 8 5 9 11 14 7 12 13 18
+its cycle time : 401
+
+station number 3's allocation:
+human assigned
+tasks assigned : 15 17 16 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 164
+
+
+1 2 3 6 10 8 20 5 9 11 14 7 12 13 17 15 18 16 19 21 22 4 23 = 455 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 6 10 8
+its cycle time : 368
+
+station number 2's allocation:
+human assigned
+tasks assigned : 20 5 9 11 14 7 12 13 17
+its cycle time : 411
+
+station number 3's allocation:
+human assigned
+tasks assigned : 15 18 16 19 21 22 4 23
+its cycle time : 455
+
+
+SOLUTION NUMBER : 165
+
+
+1 2 3 7 6 8 10 5 4 20 9 11 12 14 13 17 15 16 18 19 21 22 23 = 421 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 8 10
+its cycle time : 398
+
+station number 2's allocation:
+human assigned
+tasks assigned : 5 4 20 9 11 12 14 13 17
+its cycle time : 421
+
+station number 3's allocation:
+human assigned
+tasks assigned : 15 16 18 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 166
+
+
+1 2 3 7 6 20 10 4 8 9 11 12 14 5 13 16 18 17 15 19 21 22 23 = 415 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 20
+its cycle time : 408
+
+station number 2's allocation:
+human assigned
+tasks assigned : 10 4 8 9 11 12 14 5 13 16
+its cycle time : 411
+
+station number 3's allocation:
+human assigned
+tasks assigned : 18 17 15 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 167
+
+
+1 2 3 7 6 20 10 5 4 8 9 11 14 12 13 16 15 18 17 19 21 22 23 = 415 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 20
+its cycle time : 408
+
+station number 2's allocation:
+human assigned
+tasks assigned : 10 5 4 8 9 11 14 12 13 16
+its cycle time : 411
+
+station number 3's allocation:
+human assigned
+tasks assigned : 15 18 17 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 168
+
+
+1 2 3 7 6 20 10 4 8 9 11 5 14 12 13 16 15 18 17 19 21 22 23 = 415 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 20
+its cycle time : 408
+
+station number 2's allocation:
+human assigned
+tasks assigned : 10 4 8 9 11 5 14 12 13 16
+its cycle time : 411
+
+station number 3's allocation:
+human assigned
+tasks assigned : 15 18 17 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 169
+
+
+1 2 3 7 6 20 10 4 8 9 11 5 14 12 13 18 17 16 15 19 21 22 23 = 415 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 20
+its cycle time : 408
+
+station number 2's allocation:
+human assigned
+tasks assigned : 10 4 8 9 11 5 14 12 13 18
+its cycle time : 411
+
+station number 3's allocation:
+human assigned
+tasks assigned : 17 16 15 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 170
+
+
+1 2 3 7 6 20 10 4 5 8 9 11 12 13 16 18 17 15 14 19 21 22 23 = 440 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 20
+its cycle time : 408
+
+station number 2's allocation:
+human assigned
+tasks assigned : 10 4 5 8 9 11 12 13 16
+its cycle time : 386
+
+station number 3's allocation:
+human assigned
+tasks assigned : 18 17 15 14 19 21 22 23
+its cycle time : 440
+
+
+SOLUTION NUMBER : 171
+
+
+1 2 3 7 20 5 6 10 8 9 11 4 14 12 13 18 15 17 16 19 21 22 23 = 415 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 20 5
+its cycle time : 408
+
+station number 2's allocation:
+human assigned
+tasks assigned : 6 10 8 9 11 4 14 12 13 18
+its cycle time : 411
+
+station number 3's allocation:
+human assigned
+tasks assigned : 15 17 16 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 172
+
+
+1 2 3 7 6 8 20 4 5 10 9 11 14 12 13 18 15 17 16 19 21 22 23 = 468 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 8 20
+its cycle time : 468
+
+station number 2's allocation:
+human assigned
+tasks assigned : 4 5 10 9 11 14 12 13 18 15
+its cycle time : 426
+
+station number 3's allocation:
+human assigned
+tasks assigned : 17 16 19 21 22 23
+its cycle time : 340
+
+
+SOLUTION NUMBER : 173
+
+
+1 2 3 7 6 8 4 10 20 9 11 12 14 5 13 18 16 17 15 19 21 22 23 = 431 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 8 4
+its cycle time : 388
+
+station number 2's allocation:
+human assigned
+tasks assigned : 10 20 9 11 12 14 5 13 18
+its cycle time : 431
+
+station number 3's allocation:
+human assigned
+tasks assigned : 16 17 15 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 174
+
+
+1 2 4 3 7 8 20 6 9 10 11 12 14 5 13 18 16 17 15 19 21 22 23 = 448 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 7 8 20
+its cycle time : 448
+
+station number 2's allocation:
+human assigned
+tasks assigned : 6 9 10 11 12 14 5 13 18 16
+its cycle time : 446
+
+station number 3's allocation:
+human assigned
+tasks assigned : 17 15 19 21 22 23
+its cycle time : 340
+
+
+SOLUTION NUMBER : 175
+
+
+1 2 3 7 6 5 20 10 4 8 9 11 12 14 13 17 18 15 16 19 21 22 23 = 468 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 5 20
+its cycle time : 468
+
+station number 2's allocation:
+human assigned
+tasks assigned : 10 4 8 9 11 12 14 13 17 18
+its cycle time : 426
+
+station number 3's allocation:
+human assigned
+tasks assigned : 15 16 19 21 22 23
+its cycle time : 340
+
+
+SOLUTION NUMBER : 176
+
+
+1 2 3 7 6 8 20 4 9 5 10 11 12 14 13 17 18 15 16 19 21 22 23 = 468 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 8 20
+its cycle time : 468
+
+station number 2's allocation:
+human assigned
+tasks assigned : 4 9 5 10 11 12 14 13 17 18
+its cycle time : 426
+
+station number 3's allocation:
+human assigned
+tasks assigned : 15 16 19 21 22 23
+its cycle time : 340
+
+
+SOLUTION NUMBER : 177
+
+
+1 2 3 7 6 20 10 4 8 5 9 11 12 14 13 17 15 16 18 19 21 22 23 = 415 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 20
+its cycle time : 408
+
+station number 2's allocation:
+human assigned
+tasks assigned : 10 4 8 5 9 11 12 14 13 17
+its cycle time : 411
+
+station number 3's allocation:
+human assigned
+tasks assigned : 15 16 18 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 178
+
+
+1 2 3 7 6 8 20 4 5 9 10 11 12 14 13 17 15 16 18 19 21 22 23 = 468 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 8 20
+its cycle time : 468
+
+station number 2's allocation:
+human assigned
+tasks assigned : 4 5 9 10 11 12 14 13 17 15
+its cycle time : 426
+
+station number 3's allocation:
+human assigned
+tasks assigned : 16 18 19 21 22 23
+its cycle time : 340
+
+
+SOLUTION NUMBER : 179
+
+
+1 2 3 7 6 20 5 10 4 8 9 11 12 14 13 17 15 16 18 19 21 22 23 = 415 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 20
+its cycle time : 408
+
+station number 2's allocation:
+human assigned
+tasks assigned : 5 10 4 8 9 11 12 14 13 17
+its cycle time : 411
+
+station number 3's allocation:
+human assigned
+tasks assigned : 15 16 18 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 180
+
+
+1 2 3 7 6 20 10 4 5 8 9 11 14 12 13 18 15 17 16 19 21 22 23 = 415 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 20
+its cycle time : 408
+
+station number 2's allocation:
+human assigned
+tasks assigned : 10 4 5 8 9 11 14 12 13 18
+its cycle time : 411
+
+station number 3's allocation:
+human assigned
+tasks assigned : 15 17 16 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 181
+
+
+1 2 3 7 6 8 10 4 9 5 11 12 14 13 18 15 16 17 19 21 22 20 23 = 438 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 8 10 4
+its cycle time : 438
+
+station number 2's allocation:
+human assigned
+tasks assigned : 9 5 11 12 14 13 18 15 16
+its cycle time : 411
+
+station number 3's allocation:
+human assigned
+tasks assigned : 17 19 21 22 20 23
+its cycle time : 385
+
+
+SOLUTION NUMBER : 182
+
+
+1 2 3 7 6 8 20 4 9 10 11 5 14 12 13 18 15 17 16 19 21 22 23 = 468 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 8 20
+its cycle time : 468
+
+station number 2's allocation:
+human assigned
+tasks assigned : 4 9 10 11 5 14 12 13 18 15
+its cycle time : 426
+
+station number 3's allocation:
+human assigned
+tasks assigned : 17 16 19 21 22 23
+its cycle time : 340
+
+
+SOLUTION NUMBER : 183
+
+
+1 2 3 7 6 20 10 4 5 8 9 11 14 12 13 16 17 18 15 19 21 22 23 = 415 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 20
+its cycle time : 408
+
+station number 2's allocation:
+human assigned
+tasks assigned : 10 4 5 8 9 11 14 12 13 16
+its cycle time : 411
+
+station number 3's allocation:
+human assigned
+tasks assigned : 17 18 15 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 184
+
+
+1 2 3 7 6 5 4 10 8 9 20 11 12 14 13 17 15 16 18 19 21 22 23 = 431 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 5 4
+its cycle time : 388
+
+station number 2's allocation:
+human assigned
+tasks assigned : 10 8 9 20 11 12 14 13 17
+its cycle time : 431
+
+station number 3's allocation:
+human assigned
+tasks assigned : 15 16 18 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 185
+
+
+1 2 3 7 6 8 10 4 5 20 9 11 12 14 13 17 15 16 18 19 21 22 23 = 421 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 8 10
+its cycle time : 398
+
+station number 2's allocation:
+human assigned
+tasks assigned : 4 5 20 9 11 12 14 13 17
+its cycle time : 421
+
+station number 3's allocation:
+human assigned
+tasks assigned : 15 16 18 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 186
+
+
+1 2 3 7 6 8 10 4 9 5 11 12 13 18 15 17 16 14 19 21 22 20 23 = 426 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 8 10
+its cycle time : 398
+
+station number 2's allocation:
+human assigned
+tasks assigned : 4 9 5 11 12 13 18 15 17
+its cycle time : 426
+
+station number 3's allocation:
+human assigned
+tasks assigned : 16 14 19 21 22 20 23
+its cycle time : 410
+
+
+SOLUTION NUMBER : 187
+
+
+1 2 3 7 6 8 20 4 9 5 10 11 14 12 13 16 15 18 17 19 21 22 23 = 468 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 8 20
+its cycle time : 468
+
+station number 2's allocation:
+human assigned
+tasks assigned : 4 9 5 10 11 14 12 13 16 15
+its cycle time : 426
+
+station number 3's allocation:
+human assigned
+tasks assigned : 18 17 19 21 22 23
+its cycle time : 340
+
+
+SOLUTION NUMBER : 188
+
+
+1 2 3 7 6 8 20 4 9 10 11 12 14 5 13 16 17 18 15 19 21 22 23 = 468 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 8 20
+its cycle time : 468
+
+station number 2's allocation:
+human assigned
+tasks assigned : 4 9 10 11 12 14 5 13 16 17
+its cycle time : 426
+
+station number 3's allocation:
+human assigned
+tasks assigned : 18 15 19 21 22 23
+its cycle time : 340
+
+
+SOLUTION NUMBER : 189
+
+
+1 2 3 7 6 20 5 4 8 9 10 11 14 12 13 18 15 17 16 19 21 22 23 = 415 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 20
+its cycle time : 408
+
+station number 2's allocation:
+human assigned
+tasks assigned : 5 4 8 9 10 11 14 12 13 18
+its cycle time : 411
+
+station number 3's allocation:
+human assigned
+tasks assigned : 15 17 16 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 190
+
+
+1 2 3 7 6 20 10 4 8 9 11 5 14 12 13 18 17 15 16 19 21 22 23 = 415 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 20
+its cycle time : 408
+
+station number 2's allocation:
+human assigned
+tasks assigned : 10 4 8 9 11 5 14 12 13 18
+its cycle time : 411
+
+station number 3's allocation:
+human assigned
+tasks assigned : 17 15 16 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 191
+
+
+1 2 3 7 6 20 10 4 8 5 9 11 12 14 13 18 17 16 15 19 21 22 23 = 415 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 20
+its cycle time : 408
+
+station number 2's allocation:
+human assigned
+tasks assigned : 10 4 8 5 9 11 12 14 13 18
+its cycle time : 411
+
+station number 3's allocation:
+human assigned
+tasks assigned : 17 16 15 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 192
+
+
+1 2 3 7 6 20 10 4 8 5 9 11 14 12 13 16 17 18 15 19 21 22 23 = 415 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 20
+its cycle time : 408
+
+station number 2's allocation:
+human assigned
+tasks assigned : 10 4 8 5 9 11 14 12 13 16
+its cycle time : 411
+
+station number 3's allocation:
+human assigned
+tasks assigned : 17 18 15 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 193
+
+
+1 2 3 7 6 20 10 4 8 9 11 5 14 12 13 16 17 18 15 19 21 22 23 = 415 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 20
+its cycle time : 408
+
+station number 2's allocation:
+human assigned
+tasks assigned : 10 4 8 9 11 5 14 12 13 16
+its cycle time : 411
+
+station number 3's allocation:
+human assigned
+tasks assigned : 17 18 15 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 194
+
+
+1 2 3 7 6 20 10 4 8 9 11 5 14 12 13 15 17 16 18 19 21 22 23 = 415 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 20
+its cycle time : 408
+
+station number 2's allocation:
+human assigned
+tasks assigned : 10 4 8 9 11 5 14 12 13 15
+its cycle time : 411
+
+station number 3's allocation:
+human assigned
+tasks assigned : 17 16 18 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 195
+
+
+1 2 3 7 6 20 10 4 8 9 11 5 14 12 13 16 15 17 18 19 21 22 23 = 415 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 20
+its cycle time : 408
+
+station number 2's allocation:
+human assigned
+tasks assigned : 10 4 8 9 11 5 14 12 13 16
+its cycle time : 411
+
+station number 3's allocation:
+human assigned
+tasks assigned : 15 17 18 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 196
+
+
+1 2 3 7 6 20 10 4 8 9 11 5 12 13 16 18 17 15 14 19 21 22 23 = 440 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 20
+its cycle time : 408
+
+station number 2's allocation:
+human assigned
+tasks assigned : 10 4 8 9 11 5 12 13 16
+its cycle time : 386
+
+station number 3's allocation:
+human assigned
+tasks assigned : 18 17 15 14 19 21 22 23
+its cycle time : 440
+
+
+SOLUTION NUMBER : 197
+
+
+1 2 3 7 6 5 4 20 10 8 9 11 14 12 13 18 16 17 15 19 21 22 23 = 431 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 5 4
+its cycle time : 388
+
+station number 2's allocation:
+human assigned
+tasks assigned : 20 10 8 9 11 14 12 13 18
+its cycle time : 431
+
+station number 3's allocation:
+human assigned
+tasks assigned : 16 17 15 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 198
+
+
+1 2 3 7 6 8 10 4 9 11 12 14 5 20 13 17 18 15 16 19 21 22 23 = 421 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 8 10
+its cycle time : 398
+
+station number 2's allocation:
+human assigned
+tasks assigned : 4 9 11 12 14 5 20 13 17
+its cycle time : 421
+
+station number 3's allocation:
+human assigned
+tasks assigned : 18 15 16 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 199
+
+
+1 2 3 7 6 8 20 4 9 5 10 11 12 14 13 17 15 16 18 19 21 22 23 = 468 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 8 20
+its cycle time : 468
+
+station number 2's allocation:
+human assigned
+tasks assigned : 4 9 5 10 11 12 14 13 17 15
+its cycle time : 426
+
+station number 3's allocation:
+human assigned
+tasks assigned : 16 18 19 21 22 23
+its cycle time : 340
+
+
+SOLUTION NUMBER : 200
+
+
+1 2 3 7 6 8 10 4 9 5 11 20 12 14 13 15 16 17 18 19 21 22 23 = 421 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 8 10
+its cycle time : 398
+
+station number 2's allocation:
+human assigned
+tasks assigned : 4 9 5 11 20 12 14 13 15
+its cycle time : 421
+
+station number 3's allocation:
+human assigned
+tasks assigned : 16 17 18 19 21 22 23
+its cycle time : 415
+
+
+SOLUTION NUMBER : 201
+
+
+1 2 3 7 6 8 20 4 10 5 9 11 14 12 13 16 17 18 15 19 21 22 23 = 468 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 8 20
+its cycle time : 468
+
+station number 2's allocation:
+human assigned
+tasks assigned : 4 10 5 9 11 14 12 13 16 17
+its cycle time : 426
+
+station number 3's allocation:
+human assigned
+tasks assigned : 18 15 19 21 22 23
+its cycle time : 340
+
+
+SOLUTION NUMBER : 202
+
+
+1 2 3 7 6 8 20 4 9 5 10 11 12 14 13 17 18 16 15 19 21 22 23 = 468 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 6 8 20
+its cycle time : 468
+
+station number 2's allocation:
+human assigned
+tasks assigned : 4 9 5 10 11 12 14 13 17 18
+its cycle time : 426
+
+station number 3's allocation:
+human assigned
+tasks assigned : 16 15 19 21 22 23
+its cycle time : 340
+
+
+SOLUTION NUMBER : 203
+
+
+1 4 2 3 7 8 20 9 6 5 10 11 12 14 13 17 16 15 18 19 21 22 23 = 415 , 1111
+3 3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 7 8
+its cycle time : 328
+
+station number 2's allocation:
+human assigned
+tasks assigned : 20 9 6 5 10 11 12 14
+its cycle time : 386
+
+station number 3's allocation:
+human assigned
+tasks assigned : 13 17 16 15 18 19
+its cycle time : 380

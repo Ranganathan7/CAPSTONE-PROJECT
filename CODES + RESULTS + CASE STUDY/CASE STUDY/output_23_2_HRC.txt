@@ -1,0 +1,1987 @@
+SOLUTION NUMBER : 1
+
+
+1 4 2 3 5 20 6 8 9 10 7 11 12 14 13 16 15 17 18 19 21 22 23 = 486 , 1518
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 5 20 6 8 9
+its cycle time : 460
+
+station number 2's allocation:
+cobot assigned : 2
+tasks assigned : 10 7 11 12 14 13 16 15 17 18 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 2
+
+
+1 2 3 7 20 4 5 8 6 9 10 11 14 12 13 16 18 17 15 19 21 22 23 = 618 , 1111
+3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 20 4 5 8 6 9
+its cycle time : 618
+
+station number 2's allocation:
+human assigned
+tasks assigned : 10 11 14 12 13 16 18 17 15 19 21 22 23
+its cycle time : 616
+
+
+SOLUTION NUMBER : 3
+
+
+1 4 2 3 20 8 7 6 5 10 9 11 12 14 13 18 16 15 17 19 21 22 23 = 618 , 1111
+3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 20 8 7 6 5 10
+its cycle time : 618
+
+station number 2's allocation:
+human assigned
+tasks assigned : 9 11 12 14 13 18 16 15 17 19 21 22 23
+its cycle time : 616
+
+
+SOLUTION NUMBER : 4
+
+
+1 4 2 3 5 6 7 8 9 20 10 11 14 12 13 16 18 15 17 19 21 22 23 = 618 , 1111
+3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 5 6 7 8 9 20
+its cycle time : 618
+
+station number 2's allocation:
+human assigned
+tasks assigned : 10 11 14 12 13 16 18 15 17 19 21 22 23
+its cycle time : 616
+
+
+SOLUTION NUMBER : 5
+
+
+1 2 3 8 5 6 9 10 4 20 7 11 12 14 13 17 15 16 18 19 21 22 23 = 638 , 1111
+3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 8 5 6 9 10 4 20
+its cycle time : 638
+
+station number 2's allocation:
+human assigned
+tasks assigned : 7 11 12 14 13 17 15 16 18 19 21 22 23
+its cycle time : 596
+
+
+SOLUTION NUMBER : 6
+
+
+1 2 3 8 20 4 5 6 7 9 10 11 12 13 15 14 16 17 18 19 21 22 23 = 618 , 1111
+3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 8 20 4 5 6 7 9
+its cycle time : 618
+
+station number 2's allocation:
+human assigned
+tasks assigned : 10 11 12 13 15 14 16 17 18 19 21 22 23
+its cycle time : 616
+
+
+SOLUTION NUMBER : 7
+
+
+1 4 2 3 6 20 7 8 10 9 5 11 12 13 17 18 14 16 15 19 21 22 23 = 626 , 1111
+3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 6 20 7 8 10 9
+its cycle time : 608
+
+station number 2's allocation:
+human assigned
+tasks assigned : 5 11 12 13 17 18 14 16 15 19 21 22 23
+its cycle time : 626
+
+
+SOLUTION NUMBER : 8
+
+
+1 4 2 3 8 9 20 5 6 7 10 11 14 12 13 18 15 16 17 19 21 22 23 = 486 , 1518
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 8 9 20 5 6
+its cycle time : 460
+
+station number 2's allocation:
+cobot assigned : 2
+tasks assigned : 7 10 11 14 12 13 18 15 16 17 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 9
+
+
+1 2 4 3 7 20 5 6 10 8 9 11 12 13 17 15 18 16 14 19 21 22 23 = 618 , 1111
+3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 7 20 5 6 10 8
+its cycle time : 618
+
+station number 2's allocation:
+human assigned
+tasks assigned : 9 11 12 13 17 15 18 16 14 19 21 22 23
+its cycle time : 616
+
+
+SOLUTION NUMBER : 10
+
+
+1 2 3 5 7 6 20 4 10 8 9 11 14 12 13 18 16 15 17 19 21 22 23 = 618 , 1111
+3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 5 7 6 20 4 10 8
+its cycle time : 618
+
+station number 2's allocation:
+human assigned
+tasks assigned : 9 11 14 12 13 18 16 15 17 19 21 22 23
+its cycle time : 616
+
+
+SOLUTION NUMBER : 11
+
+
+1 2 4 3 20 8 5 6 10 7 9 11 12 14 13 15 17 16 18 19 21 22 23 = 486 , 1518
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 2 4 3 20 8 5 6 10
+its cycle time : 460
+
+station number 2's allocation:
+cobot assigned : 2
+tasks assigned : 7 9 11 12 14 13 15 17 16 18 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 12
+
+
+1 2 4 3 6 5 7 10 8 9 11 20 14 12 13 16 15 18 17 19 21 22 23 = 671 , 1111
+3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 4 3 6 5 7 10 8 9 11
+its cycle time : 563
+
+station number 2's allocation:
+human assigned
+tasks assigned : 20 14 12 13 16 15 18 17 19 21 22 23
+its cycle time : 671
+
+
+SOLUTION NUMBER : 13
+
+
+1 2 4 3 8 7 9 6 20 10 11 14 5 12 13 16 18 15 17 19 21 22 23 = 486 , 1756
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 2 4 3 8 7 9 6 20 10
+its cycle time : 475
+
+station number 2's allocation:
+cobot assigned : 1
+tasks assigned : 11 14 5 12 13 16 18 15 17 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 14
+
+
+1 2 3 6 7 8 9 5 20 4 10 11 14 12 13 15 17 16 18 19 21 22 23 = 618 , 1111
+3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 6 7 8 9 5 20 4
+its cycle time : 618
+
+station number 2's allocation:
+human assigned
+tasks assigned : 10 11 14 12 13 15 17 16 18 19 21 22 23
+its cycle time : 616
+
+
+SOLUTION NUMBER : 15
+
+
+1 4 2 3 6 20 7 8 10 9 5 11 12 13 17 18 14 16 15 19 21 22 23 = 486 , 1756
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 7 8 10 9
+its cycle time : 475
+
+station number 2's allocation:
+cobot assigned : 1
+tasks assigned : 5 11 12 13 17 18 14 16 15 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 16
+
+
+1 4 2 3 5 20 6 8 9 10 11 14 7 12 13 16 15 18 17 19 21 22 23 = 486 , 1518
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 5 20 6 8 9
+its cycle time : 460
+
+station number 2's allocation:
+cobot assigned : 2
+tasks assigned : 10 11 14 7 12 13 16 15 18 17 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 17
+
+
+1 4 2 3 6 7 5 10 8 20 9 11 12 14 13 15 18 16 17 19 21 22 23 = 618 , 1111
+3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 6 7 5 10 8 20
+its cycle time : 618
+
+station number 2's allocation:
+human assigned
+tasks assigned : 9 11 12 14 13 15 18 16 17 19 21 22 23
+its cycle time : 616
+
+
+SOLUTION NUMBER : 18
+
+
+1 4 2 3 6 20 7 8 10 9 5 11 12 14 13 18 15 17 16 19 21 22 23 = 486 , 1756
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 7 8 10 9
+its cycle time : 475
+
+station number 2's allocation:
+cobot assigned : 1
+tasks assigned : 5 11 12 14 13 18 15 17 16 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 19
+
+
+1 2 3 7 20 4 5 8 6 9 10 11 12 13 15 17 16 14 18 19 21 22 23 = 618 , 1111
+3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 2 3 7 20 4 5 8 6 9
+its cycle time : 618
+
+station number 2's allocation:
+human assigned
+tasks assigned : 10 11 12 13 15 17 16 14 18 19 21 22 23
+its cycle time : 616
+
+
+SOLUTION NUMBER : 20
+
+
+1 4 2 3 6 20 7 10 8 9 11 14 12 5 13 16 18 17 15 19 21 22 23 = 486 , 1756
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 7 10 8 9
+its cycle time : 475
+
+station number 2's allocation:
+cobot assigned : 1
+tasks assigned : 11 14 12 5 13 16 18 17 15 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 21
+
+
+1 4 2 3 6 5 10 8 20 9 11 14 7 12 13 18 16 17 15 19 21 22 23 = 486 , 1518
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 5 10 8 20
+its cycle time : 460
+
+station number 2's allocation:
+cobot assigned : 2
+tasks assigned : 9 11 14 7 12 13 18 16 17 15 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 22
+
+
+1 4 2 3 6 20 7 8 10 9 5 11 12 14 13 18 15 16 17 19 21 22 23 = 486 , 1756
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 7 8 10 9
+its cycle time : 475
+
+station number 2's allocation:
+cobot assigned : 1
+tasks assigned : 5 11 12 14 13 18 15 16 17 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 23
+
+
+1 4 2 3 6 20 7 8 10 9 5 11 12 13 16 18 17 15 14 19 21 22 23 = 486 , 1756
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 7 8 10 9
+its cycle time : 475
+
+station number 2's allocation:
+cobot assigned : 1
+tasks assigned : 5 11 12 13 16 18 17 15 14 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 24
+
+
+1 4 2 3 6 20 10 8 5 9 11 14 7 12 13 18 15 17 16 19 21 22 23 = 486 , 1518
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 10 8 5
+its cycle time : 460
+
+station number 2's allocation:
+cobot assigned : 2
+tasks assigned : 9 11 14 7 12 13 18 15 17 16 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 25
+
+
+1 4 2 3 6 20 10 5 8 9 11 14 7 12 13 18 17 16 15 19 21 22 23 = 486 , 1518
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 10 5 8
+its cycle time : 460
+
+station number 2's allocation:
+cobot assigned : 2
+tasks assigned : 9 11 14 7 12 13 18 17 16 15 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 26
+
+
+1 4 2 3 6 20 10 8 7 9 11 12 14 5 13 16 17 18 15 19 21 22 23 = 486 , 1756
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 10 8 7 9
+its cycle time : 475
+
+station number 2's allocation:
+cobot assigned : 1
+tasks assigned : 11 12 14 5 13 16 17 18 15 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 27
+
+
+1 4 2 3 6 20 10 5 8 9 11 14 7 12 13 16 17 18 15 19 21 22 23 = 486 , 1518
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 10 5 8
+its cycle time : 460
+
+station number 2's allocation:
+cobot assigned : 2
+tasks assigned : 9 11 14 7 12 13 16 17 18 15 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 28
+
+
+1 2 4 3 6 20 5 10 8 9 7 11 12 14 13 17 15 16 18 19 21 22 23 = 486 , 1518
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 2 4 3 6 20 5 10 8
+its cycle time : 460
+
+station number 2's allocation:
+cobot assigned : 2
+tasks assigned : 9 7 11 12 14 13 17 15 16 18 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 29
+
+
+1 4 2 3 6 20 7 10 8 9 11 12 14 5 13 16 17 18 15 19 21 22 23 = 486 , 1756
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 7 10 8 9
+its cycle time : 475
+
+station number 2's allocation:
+cobot assigned : 1
+tasks assigned : 11 12 14 5 13 16 17 18 15 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 30
+
+
+1 4 2 3 6 5 8 20 10 9 11 14 7 12 13 16 18 17 15 19 21 22 23 = 486 , 1518
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 5 8 20 10
+its cycle time : 460
+
+station number 2's allocation:
+cobot assigned : 2
+tasks assigned : 9 11 14 7 12 13 16 18 17 15 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 31
+
+
+1 4 2 3 6 20 10 5 8 9 11 14 7 12 13 18 15 17 16 19 21 22 23 = 486 , 1518
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 10 5 8
+its cycle time : 460
+
+station number 2's allocation:
+cobot assigned : 2
+tasks assigned : 9 11 14 7 12 13 18 15 17 16 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 32
+
+
+1 4 2 3 6 20 10 8 7 9 11 14 12 5 13 16 15 18 17 19 21 22 23 = 486 , 1756
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 10 8 7 9
+its cycle time : 475
+
+station number 2's allocation:
+cobot assigned : 1
+tasks assigned : 11 14 12 5 13 16 15 18 17 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 33
+
+
+1 4 2 3 6 20 10 8 7 9 11 12 14 5 13 16 17 18 15 19 21 22 23 = 546 , 1227
+3 2
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 6 20 10 8
+its cycle time : 528
+
+station number 2's allocation:
+cobot assigned : 2
+tasks assigned : 7 9 11 12 14 5 13 16 17 18 15 19 21 22 23
+its cycle time : 546
+
+
+SOLUTION NUMBER : 34
+
+
+1 4 2 3 6 20 7 8 10 9 11 12 14 5 13 16 17 15 18 19 21 22 23 = 486 , 1756
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 7 8 10 9
+its cycle time : 475
+
+station number 2's allocation:
+cobot assigned : 1
+tasks assigned : 11 12 14 5 13 16 17 15 18 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 35
+
+
+1 4 2 3 6 20 7 10 8 9 11 5 14 12 13 18 15 17 16 19 21 22 23 = 486 , 1756
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 7 10 8 9
+its cycle time : 475
+
+station number 2's allocation:
+cobot assigned : 1
+tasks assigned : 11 5 14 12 13 18 15 17 16 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 36
+
+
+1 4 2 3 6 5 8 20 10 9 7 11 12 14 13 17 15 16 18 19 21 22 23 = 486 , 1518
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 5 8 20 10
+its cycle time : 460
+
+station number 2's allocation:
+cobot assigned : 2
+tasks assigned : 9 7 11 12 14 13 17 15 16 18 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 37
+
+
+1 4 2 3 6 20 8 9 5 10 11 14 7 12 13 18 15 17 16 19 21 22 23 = 486 , 1518
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 8 9 5
+its cycle time : 460
+
+station number 2's allocation:
+cobot assigned : 2
+tasks assigned : 10 11 14 7 12 13 18 15 17 16 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 38
+
+
+1 4 2 3 6 20 10 8 7 9 11 14 12 5 13 18 17 16 15 19 21 22 23 = 486 , 1756
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 10 8 7 9
+its cycle time : 475
+
+station number 2's allocation:
+cobot assigned : 1
+tasks assigned : 11 14 12 5 13 18 17 16 15 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 39
+
+
+1 4 2 3 6 20 10 8 5 9 11 14 7 12 13 16 15 18 17 19 21 22 23 = 486 , 1518
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 10 8 5
+its cycle time : 460
+
+station number 2's allocation:
+cobot assigned : 2
+tasks assigned : 9 11 14 7 12 13 16 15 18 17 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 40
+
+
+1 4 2 3 6 20 10 8 5 9 7 11 12 14 13 17 15 16 18 19 21 22 23 = 486 , 1518
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 10 8 5
+its cycle time : 460
+
+station number 2's allocation:
+cobot assigned : 2
+tasks assigned : 9 7 11 12 14 13 17 15 16 18 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 41
+
+
+1 4 2 3 6 20 8 9 5 10 11 7 14 12 13 17 18 15 16 19 21 22 23 = 486 , 1518
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 8 9 5
+its cycle time : 460
+
+station number 2's allocation:
+cobot assigned : 2
+tasks assigned : 10 11 7 14 12 13 17 18 15 16 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 42
+
+
+1 4 2 3 6 20 10 8 9 7 11 5 14 12 13 18 15 17 16 19 21 22 23 = 486 , 1756
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 10 8 9 7
+its cycle time : 475
+
+station number 2's allocation:
+cobot assigned : 1
+tasks assigned : 11 5 14 12 13 18 15 17 16 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 43
+
+
+1 4 2 3 6 20 10 8 7 9 11 14 12 5 13 16 17 18 15 19 21 22 23 = 486 , 1756
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 10 8 7 9
+its cycle time : 475
+
+station number 2's allocation:
+cobot assigned : 1
+tasks assigned : 11 14 12 5 13 16 17 18 15 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 44
+
+
+1 4 2 3 6 20 10 8 5 9 11 7 14 12 13 15 16 17 18 19 21 22 23 = 486 , 1518
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 10 8 5
+its cycle time : 460
+
+station number 2's allocation:
+cobot assigned : 2
+tasks assigned : 9 11 7 14 12 13 15 16 17 18 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 45
+
+
+1 4 2 3 6 20 10 8 7 9 11 14 5 12 13 15 17 16 18 19 21 22 23 = 486 , 1756
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 10 8 7 9
+its cycle time : 475
+
+station number 2's allocation:
+cobot assigned : 1
+tasks assigned : 11 14 5 12 13 15 17 16 18 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 46
+
+
+1 4 2 3 6 20 10 8 5 9 11 7 12 14 13 17 15 16 18 19 21 22 23 = 486 , 1518
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 10 8 5
+its cycle time : 460
+
+station number 2's allocation:
+cobot assigned : 2
+tasks assigned : 9 11 7 12 14 13 17 15 16 18 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 47
+
+
+1 4 2 3 6 20 10 8 7 9 11 5 14 12 13 18 15 17 16 19 21 22 23 = 486 , 1756
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 10 8 7 9
+its cycle time : 475
+
+station number 2's allocation:
+cobot assigned : 1
+tasks assigned : 11 5 14 12 13 18 15 17 16 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 48
+
+
+1 4 2 3 6 20 10 8 7 9 11 5 14 12 13 18 17 15 16 19 21 22 23 = 486 , 1756
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 10 8 7 9
+its cycle time : 475
+
+station number 2's allocation:
+cobot assigned : 1
+tasks assigned : 11 5 14 12 13 18 17 15 16 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 49
+
+
+1 4 2 3 6 20 10 8 7 9 11 5 12 14 13 17 15 16 18 19 21 22 23 = 486 , 1756
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 10 8 7 9
+its cycle time : 475
+
+station number 2's allocation:
+cobot assigned : 1
+tasks assigned : 11 5 12 14 13 17 15 16 18 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 50
+
+
+1 4 2 3 6 20 10 8 7 9 11 5 14 12 13 16 15 17 18 19 21 22 23 = 486 , 1756
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 10 8 7 9
+its cycle time : 475
+
+station number 2's allocation:
+cobot assigned : 1
+tasks assigned : 11 5 14 12 13 16 15 17 18 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 51
+
+
+1 4 2 3 6 20 10 8 7 9 11 14 12 5 13 18 15 17 16 19 21 22 23 = 486 , 1756
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 10 8 7 9
+its cycle time : 475
+
+station number 2's allocation:
+cobot assigned : 1
+tasks assigned : 11 14 12 5 13 18 15 17 16 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 52
+
+
+1 4 2 3 6 20 10 8 5 9 11 7 14 12 13 16 15 18 17 19 21 22 23 = 486 , 1518
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 10 8 5
+its cycle time : 460
+
+station number 2's allocation:
+cobot assigned : 2
+tasks assigned : 9 11 7 14 12 13 16 15 18 17 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 53
+
+
+1 4 2 3 6 20 10 8 7 9 11 5 12 13 16 18 17 15 14 19 21 22 23 = 486 , 1756
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 10 8 7 9
+its cycle time : 475
+
+station number 2's allocation:
+cobot assigned : 1
+tasks assigned : 11 5 12 13 16 18 17 15 14 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 54
+
+
+1 4 2 3 6 20 10 8 7 9 11 5 14 12 13 18 15 16 17 19 21 22 23 = 486 , 1756
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 10 8 7 9
+its cycle time : 475
+
+station number 2's allocation:
+cobot assigned : 1
+tasks assigned : 11 5 14 12 13 18 15 16 17 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 55
+
+
+1 4 2 3 6 20 10 8 7 9 11 14 12 5 13 16 15 17 18 19 21 22 23 = 486 , 1756
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 10 8 7 9
+its cycle time : 475
+
+station number 2's allocation:
+cobot assigned : 1
+tasks assigned : 11 14 12 5 13 16 15 17 18 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 56
+
+
+1 4 2 3 6 20 10 8 7 9 11 5 14 12 13 17 15 16 18 19 21 22 23 = 486 , 1756
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 10 8 7 9
+its cycle time : 475
+
+station number 2's allocation:
+cobot assigned : 1
+tasks assigned : 11 5 14 12 13 17 15 16 18 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 57
+
+
+1 4 2 3 6 20 10 8 7 9 11 14 12 5 13 16 18 17 15 19 21 22 23 = 486 , 1756
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 10 8 7 9
+its cycle time : 475
+
+station number 2's allocation:
+cobot assigned : 1
+tasks assigned : 11 14 12 5 13 16 18 17 15 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 58
+
+
+1 4 2 3 6 20 10 8 7 9 11 5 14 12 13 16 15 18 17 19 21 22 23 = 486 , 1756
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 10 8 7 9
+its cycle time : 475
+
+station number 2's allocation:
+cobot assigned : 1
+tasks assigned : 11 5 14 12 13 16 15 18 17 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 59
+
+
+1 4 2 3 6 20 10 8 5 9 11 7 14 12 13 17 15 16 18 19 21 22 23 = 486 , 1518
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 10 8 5
+its cycle time : 460
+
+station number 2's allocation:
+cobot assigned : 2
+tasks assigned : 9 11 7 14 12 13 17 15 16 18 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 60
+
+
+1 4 2 3 6 20 10 8 7 9 11 5 14 12 13 16 18 15 17 19 21 22 23 = 486 , 1756
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 10 8 7 9
+its cycle time : 475
+
+station number 2's allocation:
+cobot assigned : 1
+tasks assigned : 11 5 14 12 13 16 18 15 17 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 61
+
+
+1 4 2 3 6 20 10 8 7 9 5 11 12 14 13 17 15 16 18 19 21 22 23 = 486 , 1756
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 10 8 7 9
+its cycle time : 475
+
+station number 2's allocation:
+cobot assigned : 1
+tasks assigned : 5 11 12 14 13 17 15 16 18 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 62
+
+
+1 4 2 3 6 20 7 8 10 9 5 11 12 14 13 17 15 16 18 19 21 22 23 = 486 , 1756
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 7 8 10 9
+its cycle time : 475
+
+station number 2's allocation:
+cobot assigned : 1
+tasks assigned : 5 11 12 14 13 17 15 16 18 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 63
+
+
+1 4 2 3 6 20 7 8 10 9 11 5 12 14 13 15 16 17 18 19 21 22 23 = 486 , 1756
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 7 8 10 9
+its cycle time : 475
+
+station number 2's allocation:
+cobot assigned : 1
+tasks assigned : 11 5 12 14 13 15 16 17 18 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 64
+
+
+1 4 2 3 6 20 7 8 10 9 5 11 14 12 13 17 16 15 18 19 21 22 23 = 486 , 1756
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 7 8 10 9
+its cycle time : 475
+
+station number 2's allocation:
+cobot assigned : 1
+tasks assigned : 5 11 14 12 13 17 16 15 18 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 65
+
+
+1 4 2 3 6 20 7 8 10 9 5 11 14 12 13 16 15 18 17 19 21 22 23 = 486 , 1756
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 7 8 10 9
+its cycle time : 475
+
+station number 2's allocation:
+cobot assigned : 1
+tasks assigned : 5 11 14 12 13 16 15 18 17 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 66
+
+
+1 4 2 3 6 20 10 8 7 9 11 5 14 12 13 16 17 18 15 19 21 22 23 = 486 , 1756
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 10 8 7 9
+its cycle time : 475
+
+station number 2's allocation:
+cobot assigned : 1
+tasks assigned : 11 5 14 12 13 16 17 18 15 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 67
+
+
+1 4 2 3 6 20 10 8 7 9 11 12 14 5 13 18 17 16 15 19 21 22 23 = 486 , 1756
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 10 8 7 9
+its cycle time : 475
+
+station number 2's allocation:
+cobot assigned : 1
+tasks assigned : 11 12 14 5 13 18 17 16 15 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 68
+
+
+1 4 2 3 6 20 10 8 7 9 11 5 14 12 13 17 16 15 18 19 21 22 23 = 486 , 1756
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 10 8 7 9
+its cycle time : 475
+
+station number 2's allocation:
+cobot assigned : 1
+tasks assigned : 11 5 14 12 13 17 16 15 18 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 69
+
+
+1 4 2 3 6 20 10 8 7 9 11 12 5 14 13 15 17 16 18 19 21 22 23 = 486 , 1756
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 10 8 7 9
+its cycle time : 475
+
+station number 2's allocation:
+cobot assigned : 1
+tasks assigned : 11 12 5 14 13 15 17 16 18 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 70
+
+
+1 4 2 3 6 20 10 8 7 9 11 5 12 14 13 15 16 17 18 19 21 22 23 = 486 , 1756
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 10 8 7 9
+its cycle time : 475
+
+station number 2's allocation:
+cobot assigned : 1
+tasks assigned : 11 5 12 14 13 15 16 17 18 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 71
+
+
+1 4 2 3 6 20 10 8 7 9 11 5 14 12 13 16 17 15 18 19 21 22 23 = 486 , 1756
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 10 8 7 9
+its cycle time : 475
+
+station number 2's allocation:
+cobot assigned : 1
+tasks assigned : 11 5 14 12 13 16 17 15 18 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 72
+
+
+1 4 2 3 6 20 10 8 7 9 5 11 12 14 13 17 18 15 16 19 21 22 23 = 486 , 1756
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 10 8 7 9
+its cycle time : 475
+
+station number 2's allocation:
+cobot assigned : 1
+tasks assigned : 5 11 12 14 13 17 18 15 16 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 73
+
+
+1 4 2 3 6 20 10 8 7 9 11 5 14 12 13 17 18 16 15 19 21 22 23 = 486 , 1756
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 10 8 7 9
+its cycle time : 475
+
+station number 2's allocation:
+cobot assigned : 1
+tasks assigned : 11 5 14 12 13 17 18 16 15 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 74
+
+
+1 4 2 3 6 20 10 8 7 9 11 5 14 12 13 16 18 17 15 19 21 22 23 = 486 , 1756
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 10 8 7 9
+its cycle time : 475
+
+station number 2's allocation:
+cobot assigned : 1
+tasks assigned : 11 5 14 12 13 16 18 17 15 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 75
+
+
+1 4 2 3 6 20 10 8 7 9 11 5 14 12 13 15 18 16 17 19 21 22 23 = 486 , 1756
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 10 8 7 9
+its cycle time : 475
+
+station number 2's allocation:
+cobot assigned : 1
+tasks assigned : 11 5 14 12 13 15 18 16 17 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 76
+
+
+1 4 2 3 6 20 10 8 7 9 11 12 5 13 16 18 17 15 14 19 21 22 23 = 486 , 1756
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 10 8 7 9
+its cycle time : 475
+
+station number 2's allocation:
+cobot assigned : 1
+tasks assigned : 11 12 5 13 16 18 17 15 14 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 77
+
+
+1 4 2 3 6 20 10 8 7 9 5 11 12 13 16 18 17 15 14 19 21 22 23 = 486 , 1756
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 10 8 7 9
+its cycle time : 475
+
+station number 2's allocation:
+cobot assigned : 1
+tasks assigned : 5 11 12 13 16 18 17 15 14 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 78
+
+
+1 4 2 3 20 5 8 6 9 10 11 14 7 12 13 17 15 16 18 19 21 22 23 = 538 , 1470
+3 2
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 20 5 8 6
+its cycle time : 538
+
+station number 2's allocation:
+cobot assigned : 1
+tasks assigned : 9 10 11 14 7 12 13 17 15 16 18 19 21 22 23
+its cycle time : 536
+
+
+SOLUTION NUMBER : 79
+
+
+1 4 2 3 6 20 10 8 7 9 11 5 14 12 13 17 15 18 16 19 21 22 23 = 623 , 1111
+3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 6 20 10 8 7 9 11
+its cycle time : 623
+
+station number 2's allocation:
+human assigned
+tasks assigned : 5 14 12 13 17 15 18 16 19 21 22 23
+its cycle time : 611
+
+
+SOLUTION NUMBER : 80
+
+
+1 4 2 3 6 20 10 8 5 9 11 14 7 12 13 17 15 16 18 19 21 22 23 = 486 , 1518
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 10 8 5
+its cycle time : 460
+
+station number 2's allocation:
+cobot assigned : 2
+tasks assigned : 9 11 14 7 12 13 17 15 16 18 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 81
+
+
+1 4 2 3 6 20 10 8 7 9 11 5 14 12 13 17 15 16 18 19 21 22 23 = 546 , 1227
+3 2
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 6 20 10 8
+its cycle time : 528
+
+station number 2's allocation:
+cobot assigned : 2
+tasks assigned : 7 9 11 5 14 12 13 17 15 16 18 19 21 22 23
+its cycle time : 546
+
+
+SOLUTION NUMBER : 82
+
+
+1 4 2 3 6 20 10 8 7 9 5 11 12 13 16 18 17 15 14 19 21 22 23 = 546 , 1227
+3 2
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 6 20 10 8
+its cycle time : 528
+
+station number 2's allocation:
+cobot assigned : 2
+tasks assigned : 7 9 5 11 12 13 16 18 17 15 14 19 21 22 23
+its cycle time : 546
+
+
+SOLUTION NUMBER : 83
+
+
+1 4 2 3 20 5 8 6 9 7 10 11 12 14 13 17 18 15 16 19 21 22 23 = 538 , 1470
+3 2
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 20 5 8 6
+its cycle time : 538
+
+station number 2's allocation:
+cobot assigned : 1
+tasks assigned : 9 7 10 11 12 14 13 17 18 15 16 19 21 22 23
+its cycle time : 536
+
+
+SOLUTION NUMBER : 84
+
+
+1 4 2 3 20 8 9 5 7 6 10 11 14 12 13 18 15 17 16 19 21 22 23 = 546 , 1227
+3 2
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 20 8 9 5
+its cycle time : 528
+
+station number 2's allocation:
+cobot assigned : 2
+tasks assigned : 7 6 10 11 14 12 13 18 15 17 16 19 21 22 23
+its cycle time : 546
+
+
+SOLUTION NUMBER : 85
+
+
+1 4 2 3 6 20 10 8 7 9 11 5 12 14 13 15 17 16 18 19 21 22 23 = 486 , 1756
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 10 8 7 9
+its cycle time : 475
+
+station number 2's allocation:
+cobot assigned : 1
+tasks assigned : 11 5 12 14 13 15 17 16 18 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 86
+
+
+1 4 2 3 6 20 10 8 7 9 11 5 14 12 13 17 15 18 16 19 21 22 23 = 486 , 1756
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 10 8 7 9
+its cycle time : 475
+
+station number 2's allocation:
+cobot assigned : 1
+tasks assigned : 11 5 14 12 13 17 15 18 16 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 87
+
+
+1 4 2 3 20 5 8 6 9 10 7 11 12 14 13 17 18 15 16 19 21 22 23 = 638 , 1111
+3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 20 5 8 6 9 10
+its cycle time : 638
+
+station number 2's allocation:
+human assigned
+tasks assigned : 7 11 12 14 13 17 18 15 16 19 21 22 23
+its cycle time : 596
+
+
+SOLUTION NUMBER : 88
+
+
+1 4 2 3 6 20 10 8 7 9 11 5 14 12 13 17 15 18 16 19 21 22 23 = 546 , 1227
+3 2
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 6 20 10 8
+its cycle time : 528
+
+station number 2's allocation:
+cobot assigned : 2
+tasks assigned : 7 9 11 5 14 12 13 17 15 18 16 19 21 22 23
+its cycle time : 546
+
+
+SOLUTION NUMBER : 89
+
+
+1 4 2 3 6 20 10 8 7 9 11 5 14 12 13 18 15 16 17 19 21 22 23 = 546 , 1227
+3 2
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 6 20 10 8
+its cycle time : 528
+
+station number 2's allocation:
+cobot assigned : 2
+tasks assigned : 7 9 11 5 14 12 13 18 15 16 17 19 21 22 23
+its cycle time : 546
+
+
+SOLUTION NUMBER : 90
+
+
+1 4 2 3 20 5 8 6 9 7 10 11 12 14 13 17 18 15 16 19 21 22 23 = 486 , 1518
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 20 5 8 6 9
+its cycle time : 460
+
+station number 2's allocation:
+cobot assigned : 2
+tasks assigned : 7 10 11 12 14 13 17 18 15 16 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 91
+
+
+1 4 2 3 6 20 10 5 8 9 11 14 7 12 13 16 15 18 17 19 21 22 23 = 486 , 1518
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 10 5 8
+its cycle time : 460
+
+station number 2's allocation:
+cobot assigned : 2
+tasks assigned : 9 11 14 7 12 13 16 15 18 17 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 92
+
+
+1 4 2 3 6 20 10 8 7 9 11 5 12 14 13 15 18 16 17 19 21 22 23 = 486 , 1756
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 10 8 7 9
+its cycle time : 475
+
+station number 2's allocation:
+cobot assigned : 1
+tasks assigned : 11 5 12 14 13 15 18 16 17 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 93
+
+
+1 4 2 3 20 5 8 6 9 10 11 14 7 12 13 17 15 16 18 19 21 22 23 = 486 , 1518
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 20 5 8 6 9
+its cycle time : 460
+
+station number 2's allocation:
+cobot assigned : 2
+tasks assigned : 10 11 14 7 12 13 17 15 16 18 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 94
+
+
+1 4 2 3 6 20 10 8 7 9 11 5 14 12 13 17 16 18 15 19 21 22 23 = 486 , 1756
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 10 8 7 9
+its cycle time : 475
+
+station number 2's allocation:
+cobot assigned : 1
+tasks assigned : 11 5 14 12 13 17 16 18 15 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 95
+
+
+1 4 2 3 6 20 10 8 9 11 14 7 12 5 13 16 18 17 15 19 21 22 23 = 485 , 1756
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 10 8 9 11 14
+its cycle time : 485
+
+station number 2's allocation:
+cobot assigned : 1
+tasks assigned : 7 12 5 13 16 18 17 15 19 21 22 23
+its cycle time : 476
+
+
+SOLUTION NUMBER : 96
+
+
+1 4 2 3 6 8 10 9 11 14 5 20 7 12 13 18 15 17 16 19 21 22 23 = 491 , 1511
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 8 10 9 11 14 5
+its cycle time : 455
+
+station number 2's allocation:
+cobot assigned : 2
+tasks assigned : 20 7 12 13 18 15 17 16 19 21 22 23
+its cycle time : 491
+
+
+SOLUTION NUMBER : 97
+
+
+1 4 2 3 6 20 10 5 8 9 11 7 14 12 13 17 15 16 18 19 21 22 23 = 486 , 1518
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 10 5 8
+its cycle time : 460
+
+station number 2's allocation:
+cobot assigned : 2
+tasks assigned : 9 11 7 14 12 13 17 15 16 18 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 98
+
+
+1 4 2 3 6 20 10 8 7 9 11 5 14 12 13 18 15 17 16 19 21 22 23 = 546 , 1227
+3 2
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 6 20 10 8
+its cycle time : 528
+
+station number 2's allocation:
+cobot assigned : 2
+tasks assigned : 7 9 11 5 14 12 13 18 15 17 16 19 21 22 23
+its cycle time : 546
+
+
+SOLUTION NUMBER : 99
+
+
+1 4 2 3 6 20 10 8 7 9 11 14 12 5 13 16 18 17 15 19 21 22 23 = 546 , 1227
+3 2
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 6 20 10 8
+its cycle time : 528
+
+station number 2's allocation:
+cobot assigned : 2
+tasks assigned : 7 9 11 14 12 5 13 16 18 17 15 19 21 22 23
+its cycle time : 546
+
+
+SOLUTION NUMBER : 100
+
+
+1 4 2 3 6 20 10 8 7 9 11 5 14 12 13 16 15 17 18 19 21 22 23 = 546 , 1227
+3 2
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 6 20 10 8
+its cycle time : 528
+
+station number 2's allocation:
+cobot assigned : 2
+tasks assigned : 7 9 11 5 14 12 13 16 15 17 18 19 21 22 23
+its cycle time : 546
+
+
+SOLUTION NUMBER : 101
+
+
+1 4 2 3 6 20 10 8 7 9 11 5 12 14 13 15 18 16 17 19 21 22 23 = 546 , 1227
+3 2
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 6 20 10 8
+its cycle time : 528
+
+station number 2's allocation:
+cobot assigned : 2
+tasks assigned : 7 9 11 5 12 14 13 15 18 16 17 19 21 22 23
+its cycle time : 546
+
+
+SOLUTION NUMBER : 102
+
+
+1 4 2 3 6 20 10 8 5 9 11 14 7 12 13 18 15 17 16 19 21 22 23 = 546 , 1227
+3 2
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 6 20 10 8
+its cycle time : 528
+
+station number 2's allocation:
+cobot assigned : 2
+tasks assigned : 5 9 11 14 7 12 13 18 15 17 16 19 21 22 23
+its cycle time : 546
+
+
+SOLUTION NUMBER : 103
+
+
+1 4 2 3 6 20 10 8 7 9 11 5 12 13 16 18 17 15 14 19 21 22 23 = 546 , 1227
+3 2
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 6 20 10 8
+its cycle time : 528
+
+station number 2's allocation:
+cobot assigned : 2
+tasks assigned : 7 9 11 5 12 13 16 18 17 15 14 19 21 22 23
+its cycle time : 546
+
+
+SOLUTION NUMBER : 104
+
+
+1 4 2 3 6 20 10 7 8 9 11 12 14 5 13 16 17 18 15 19 21 22 23 = 486 , 1756
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 10 7 8 9
+its cycle time : 475
+
+station number 2's allocation:
+cobot assigned : 1
+tasks assigned : 11 12 14 5 13 16 17 18 15 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 105
+
+
+1 4 2 3 6 20 10 8 7 5 9 11 12 14 13 15 16 17 18 19 21 22 23 = 546 , 1227
+3 2
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 6 20 10 8
+its cycle time : 528
+
+station number 2's allocation:
+cobot assigned : 2
+tasks assigned : 7 5 9 11 12 14 13 15 16 17 18 19 21 22 23
+its cycle time : 546
+
+
+SOLUTION NUMBER : 106
+
+
+1 4 2 3 6 20 10 8 7 9 11 14 5 12 13 17 15 16 18 19 21 22 23 = 546 , 1227
+3 2
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 6 20 10 8
+its cycle time : 528
+
+station number 2's allocation:
+cobot assigned : 2
+tasks assigned : 7 9 11 14 5 12 13 17 15 16 18 19 21 22 23
+its cycle time : 546
+
+
+SOLUTION NUMBER : 107
+
+
+1 4 2 3 6 20 10 8 7 9 11 5 12 13 15 17 16 14 18 19 21 22 23 = 546 , 1227
+3 2
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 6 20 10 8
+its cycle time : 528
+
+station number 2's allocation:
+cobot assigned : 2
+tasks assigned : 7 9 11 5 12 13 15 17 16 14 18 19 21 22 23
+its cycle time : 546
+
+
+SOLUTION NUMBER : 108
+
+
+1 4 2 3 6 5 10 8 7 9 11 20 12 14 13 17 15 16 18 19 21 22 23 = 546 , 1218
+3 2
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 6 5 10 8 7
+its cycle time : 498
+
+station number 2's allocation:
+cobot assigned : 2
+tasks assigned : 9 11 20 12 14 13 17 15 16 18 19 21 22 23
+its cycle time : 546
+
+
+SOLUTION NUMBER : 109
+
+
+1 4 2 3 6 20 10 8 7 9 11 5 14 12 13 17 18 16 15 19 21 22 23 = 546 , 1227
+3 2
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 6 20 10 8
+its cycle time : 528
+
+station number 2's allocation:
+cobot assigned : 2
+tasks assigned : 7 9 11 5 14 12 13 17 18 16 15 19 21 22 23
+its cycle time : 546
+
+
+SOLUTION NUMBER : 110
+
+
+1 4 2 3 6 5 10 8 7 9 11 20 14 12 13 17 15 16 18 19 21 22 23 = 546 , 1218
+3 2
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 6 5 10 8 7
+its cycle time : 498
+
+station number 2's allocation:
+cobot assigned : 2
+tasks assigned : 9 11 20 14 12 13 17 15 16 18 19 21 22 23
+its cycle time : 546
+
+
+SOLUTION NUMBER : 111
+
+
+1 4 2 3 6 5 10 8 7 9 11 14 20 12 13 17 15 16 18 19 21 22 23 = 546 , 1218
+3 2
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 6 5 10 8 7
+its cycle time : 498
+
+station number 2's allocation:
+cobot assigned : 2
+tasks assigned : 9 11 14 20 12 13 17 15 16 18 19 21 22 23
+its cycle time : 546
+
+
+SOLUTION NUMBER : 112
+
+
+1 4 2 3 6 20 10 8 9 11 14 5 7 12 13 17 15 16 18 19 21 22 23 = 618 , 1111
+3 3
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 6 20 10 8 9 11 14
+its cycle time : 618
+
+station number 2's allocation:
+human assigned
+tasks assigned : 5 7 12 13 17 15 16 18 19 21 22 23
+its cycle time : 616
+
+
+SOLUTION NUMBER : 113
+
+
+1 4 2 3 6 20 10 8 7 9 11 5 14 12 13 16 15 18 17 19 21 22 23 = 546 , 1227
+3 2
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 6 20 10 8
+its cycle time : 528
+
+station number 2's allocation:
+cobot assigned : 2
+tasks assigned : 7 9 11 5 14 12 13 16 15 18 17 19 21 22 23
+its cycle time : 546
+
+
+SOLUTION NUMBER : 114
+
+
+1 4 2 3 6 5 10 8 7 9 11 20 14 12 13 16 15 18 17 19 21 22 23 = 546 , 1218
+3 2
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 6 5 10 8 7
+its cycle time : 498
+
+station number 2's allocation:
+cobot assigned : 2
+tasks assigned : 9 11 20 14 12 13 16 15 18 17 19 21 22 23
+its cycle time : 546
+
+
+SOLUTION NUMBER : 115
+
+
+1 4 2 3 6 20 10 8 5 9 11 14 7 12 13 16 15 18 17 19 21 22 23 = 546 , 1227
+3 2
+
+station number 1's allocation:
+human assigned
+tasks assigned : 1 4 2 3 6 20 10 8
+its cycle time : 528
+
+station number 2's allocation:
+cobot assigned : 2
+tasks assigned : 5 9 11 14 7 12 13 16 15 18 17 19 21 22 23
+its cycle time : 546
+
+
+SOLUTION NUMBER : 116
+
+
+1 4 2 3 6 20 10 8 7 9 11 5 14 12 13 17 18 15 16 19 21 22 23 = 486 , 1756
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 10 8 7 9
+its cycle time : 475
+
+station number 2's allocation:
+cobot assigned : 1
+tasks assigned : 11 5 14 12 13 17 18 15 16 19 21 22 23
+its cycle time : 486
+
+
+SOLUTION NUMBER : 117
+
+
+1 4 2 3 6 20 10 8 9 11 14 5 7 12 13 17 15 16 18 19 21 22 23 = 485 , 1756
+2 2
+
+station number 1's allocation:
+cobot assigned : 1
+tasks assigned : 1 4 2 3 6 20 10 8 9 11 14
+its cycle time : 485
+
+station number 2's allocation:
+cobot assigned : 1
+tasks assigned : 5 7 12 13 17 15 16 18 19 21 22 23
+its cycle time : 476

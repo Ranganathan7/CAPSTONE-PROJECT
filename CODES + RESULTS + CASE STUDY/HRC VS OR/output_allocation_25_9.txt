@@ -1,0 +1,940 @@
+FOR THE TASK SEQUENCE : 1 2 3 4 8 5 9 6 10 7 12 11 15 17 23 13 14 20 16 18 19 25 21 24 22 
+
+USING HUMAN ROBOT ALLOCATION : 2 1 3 2 3 1 3 2 1 
+
+CYCLE TIME : 347
+
+ENERGY CONSUMPTION : 452
+
+THE ALLOCATION FOR EACH STATION IS AS FOLLOWS
+
+#station number 1's allocation: 
+cobot assigned : 3
+tasks assigned : 1 2 3 
+
+#station number 2's allocation: 
+robot assigned : 2
+tasks assigned : 4 8 5 
+
+#station number 3's allocation: 
+human assigned
+tasks assigned : 9 6 
+
+#station number 4's allocation: 
+cobot assigned : 1
+tasks assigned : 10 7 12 
+
+#station number 5's allocation: 
+human assigned
+tasks assigned : 11 15 
+
+#station number 6's allocation: 
+robot assigned : 3
+tasks assigned : 17 23 13 
+
+#station number 7's allocation: 
+human assigned
+tasks assigned : 14 20 16 
+
+#station number 8's allocation: 
+cobot assigned : 1
+tasks assigned : 18 19 25 
+
+#station number 9's allocation: 
+robot assigned : 1
+tasks assigned : 21 24 22 
+
+
+FOR THE TASK SEQUENCE : 1 2 3 4 8 5 9 6 10 7 12 11 15 17 23 13 14 20 16 18 19 25 21 24 22 
+
+USING ONLY ROBOT ALLOCATION : 1 1 1 1 1 1 1 1 1 
+
+CYCLE TIME : 324
+
+ENERGY CONSUMPTION : 492
+
+THE ALLOCATION FOR EACH STATION IS AS FOLLOWS
+
+#station number 1's allocation: 
+robot assigned : 2
+tasks assigned : 1 2 3 
+
+#station number 2's allocation: 
+robot assigned : 2
+tasks assigned : 4 8 5 
+
+#station number 3's allocation: 
+robot assigned : 6
+tasks assigned : 9 6 10 
+
+#station number 4's allocation: 
+robot assigned : 8
+tasks assigned : 7 12 11 
+
+#station number 5's allocation: 
+robot assigned : 1
+tasks assigned : 15 17 
+
+#station number 6's allocation: 
+robot assigned : 9
+tasks assigned : 23 13 14 
+
+#station number 7's allocation: 
+robot assigned : 6
+tasks assigned : 20 16 18 
+
+#station number 8's allocation: 
+robot assigned : 1
+tasks assigned : 19 25 21 
+
+#station number 9's allocation: 
+robot assigned : 1
+tasks assigned : 24 22 
+
+
+FOR THE TASK SEQUENCE : 1 2 3 4 5 6 8 9 10 7 12 15 17 23 11 13 14 16 19 18 20 25 21 24 22 
+
+USING HUMAN ROBOT ALLOCATION : 2 3 1 2 3 2 1 2 1 
+
+CYCLE TIME : 331
+
+ENERGY CONSUMPTION : 570
+
+THE ALLOCATION FOR EACH STATION IS AS FOLLOWS
+
+#station number 1's allocation: 
+cobot assigned : 3
+tasks assigned : 1 2 3 
+
+#station number 2's allocation: 
+human assigned
+tasks assigned : 4 5 
+
+#station number 3's allocation: 
+robot assigned : 1
+tasks assigned : 6 8 9 
+
+#station number 4's allocation: 
+cobot assigned : 1
+tasks assigned : 10 7 12 
+
+#station number 5's allocation: 
+human assigned
+tasks assigned : 15 17 
+
+#station number 6's allocation: 
+cobot assigned : 1
+tasks assigned : 23 11 13 
+
+#station number 7's allocation: 
+robot assigned : 9
+tasks assigned : 14 16 19 
+
+#station number 8's allocation: 
+cobot assigned : 2
+tasks assigned : 18 20 25 
+
+#station number 9's allocation: 
+robot assigned : 1
+tasks assigned : 21 24 22 
+
+
+FOR THE TASK SEQUENCE : 1 2 3 4 5 6 8 9 10 7 12 15 17 23 11 13 14 16 19 18 20 25 21 24 22 
+
+USING ONLY ROBOT ALLOCATION : 1 1 1 1 1 1 1 1 1 
+
+CYCLE TIME : 324
+
+ENERGY CONSUMPTION : 562
+
+THE ALLOCATION FOR EACH STATION IS AS FOLLOWS
+
+#station number 1's allocation: 
+robot assigned : 2
+tasks assigned : 1 2 3 
+
+#station number 2's allocation: 
+robot assigned : 2
+tasks assigned : 4 5 6 
+
+#station number 3's allocation: 
+robot assigned : 2
+tasks assigned : 8 9 10 
+
+#station number 4's allocation: 
+robot assigned : 1
+tasks assigned : 7 12 15 
+
+#station number 5's allocation: 
+robot assigned : 5
+tasks assigned : 17 23 11 
+
+#station number 6's allocation: 
+robot assigned : 6
+tasks assigned : 13 14 16 
+
+#station number 7's allocation: 
+robot assigned : 7
+tasks assigned : 19 18 20 
+
+#station number 8's allocation: 
+robot assigned : 1
+tasks assigned : 25 21 
+
+#station number 9's allocation: 
+robot assigned : 1
+tasks assigned : 24 22 
+
+
+FOR THE TASK SEQUENCE : 1 2 3 4 5 8 9 6 10 7 12 15 17 23 11 13 14 16 19 18 20 25 21 24 22 
+
+USING HUMAN ROBOT ALLOCATION : 2 1 2 1 2 3 2 3 1 
+
+CYCLE TIME : 331
+
+ENERGY CONSUMPTION : 560
+
+THE ALLOCATION FOR EACH STATION IS AS FOLLOWS
+
+#station number 1's allocation: 
+cobot assigned : 3
+tasks assigned : 1 2 3 
+
+#station number 2's allocation: 
+robot assigned : 2
+tasks assigned : 4 5 8 
+
+#station number 3's allocation: 
+cobot assigned : 3
+tasks assigned : 9 6 10 
+
+#station number 4's allocation: 
+robot assigned : 1
+tasks assigned : 7 12 15 
+
+#station number 5's allocation: 
+cobot assigned : 1
+tasks assigned : 17 23 11 
+
+#station number 6's allocation: 
+human assigned
+tasks assigned : 13 14 
+
+#station number 7's allocation: 
+cobot assigned : 2
+tasks assigned : 16 19 18 
+
+#station number 8's allocation: 
+human assigned
+tasks assigned : 20 25 
+
+#station number 9's allocation: 
+robot assigned : 1
+tasks assigned : 21 24 22 
+
+
+FOR THE TASK SEQUENCE : 1 2 3 4 5 8 9 6 10 7 12 15 17 23 11 13 14 16 19 18 20 25 21 24 22 
+
+USING ONLY ROBOT ALLOCATION : 1 1 1 1 1 1 1 1 1 
+
+CYCLE TIME : 324
+
+ENERGY CONSUMPTION : 552
+
+THE ALLOCATION FOR EACH STATION IS AS FOLLOWS
+
+#station number 1's allocation: 
+robot assigned : 2
+tasks assigned : 1 2 3 
+
+#station number 2's allocation: 
+robot assigned : 2
+tasks assigned : 4 5 8 
+
+#station number 3's allocation: 
+robot assigned : 6
+tasks assigned : 9 6 10 
+
+#station number 4's allocation: 
+robot assigned : 1
+tasks assigned : 7 12 15 
+
+#station number 5's allocation: 
+robot assigned : 5
+tasks assigned : 17 23 11 
+
+#station number 6's allocation: 
+robot assigned : 6
+tasks assigned : 13 14 16 
+
+#station number 7's allocation: 
+robot assigned : 7
+tasks assigned : 19 18 20 
+
+#station number 8's allocation: 
+robot assigned : 1
+tasks assigned : 25 21 
+
+#station number 9's allocation: 
+robot assigned : 1
+tasks assigned : 24 22 
+
+
+FOR THE TASK SEQUENCE : 1 2 3 4 5 6 8 9 10 7 12 15 17 23 11 13 14 20 21 24 16 19 18 22 25 
+
+USING HUMAN ROBOT ALLOCATION : 2 1 2 1 2 3 1 3 1 
+
+CYCLE TIME : 337
+
+ENERGY CONSUMPTION : 480
+
+THE ALLOCATION FOR EACH STATION IS AS FOLLOWS
+
+#station number 1's allocation: 
+cobot assigned : 3
+tasks assigned : 1 2 3 
+
+#station number 2's allocation: 
+robot assigned : 2
+tasks assigned : 4 5 6 
+
+#station number 3's allocation: 
+cobot assigned : 1
+tasks assigned : 8 9 10 
+
+#station number 4's allocation: 
+robot assigned : 1
+tasks assigned : 7 12 15 
+
+#station number 5's allocation: 
+cobot assigned : 1
+tasks assigned : 17 23 11 
+
+#station number 6's allocation: 
+human assigned
+tasks assigned : 13 14 
+
+#station number 7's allocation: 
+robot assigned : 3
+tasks assigned : 20 21 24 
+
+#station number 8's allocation: 
+human assigned
+tasks assigned : 16 19 
+
+#station number 9's allocation: 
+robot assigned : 2
+tasks assigned : 18 22 25 
+
+
+FOR THE TASK SEQUENCE : 1 2 3 4 5 6 8 9 10 7 12 15 17 23 11 13 14 20 21 24 16 19 18 22 25 
+
+USING ONLY ROBOT ALLOCATION : 1 1 1 1 1 1 1 1 1 
+
+CYCLE TIME : 324
+
+ENERGY CONSUMPTION : 441
+
+THE ALLOCATION FOR EACH STATION IS AS FOLLOWS
+
+#station number 1's allocation: 
+robot assigned : 2
+tasks assigned : 1 2 3 
+
+#station number 2's allocation: 
+robot assigned : 2
+tasks assigned : 4 5 6 
+
+#station number 3's allocation: 
+robot assigned : 2
+tasks assigned : 8 9 10 
+
+#station number 4's allocation: 
+robot assigned : 1
+tasks assigned : 7 12 15 
+
+#station number 5's allocation: 
+robot assigned : 5
+tasks assigned : 17 23 11 
+
+#station number 6's allocation: 
+robot assigned : 6
+tasks assigned : 13 14 20 
+
+#station number 7's allocation: 
+robot assigned : 1
+tasks assigned : 21 24 
+
+#station number 8's allocation: 
+robot assigned : 1
+tasks assigned : 16 19 
+
+#station number 9's allocation: 
+robot assigned : 2
+tasks assigned : 18 22 25 
+
+
+FOR THE TASK SEQUENCE : 1 2 3 4 5 6 8 9 10 7 12 15 17 23 11 13 14 20 21 24 19 22 16 18 25 
+
+USING HUMAN ROBOT ALLOCATION : 2 1 2 1 2 1 2 1 2 
+
+CYCLE TIME : 275
+
+ENERGY CONSUMPTION : 740
+
+THE ALLOCATION FOR EACH STATION IS AS FOLLOWS
+
+#station number 1's allocation: 
+cobot assigned : 3
+tasks assigned : 1 2 3 
+
+#station number 2's allocation: 
+robot assigned : 7
+tasks assigned : 4 5 6 
+
+#station number 3's allocation: 
+cobot assigned : 1
+tasks assigned : 8 9 
+
+#station number 4's allocation: 
+robot assigned : 8
+tasks assigned : 10 7 12 
+
+#station number 5's allocation: 
+cobot assigned : 7
+tasks assigned : 15 17 23 
+
+#station number 6's allocation: 
+robot assigned : 9
+tasks assigned : 11 13 14 
+
+#station number 7's allocation: 
+cobot assigned : 6
+tasks assigned : 20 21 24 
+
+#station number 8's allocation: 
+robot assigned : 1
+tasks assigned : 19 22 
+
+#station number 9's allocation: 
+cobot assigned : 5
+tasks assigned : 16 18 25 
+
+
+FOR THE TASK SEQUENCE : 1 2 3 4 5 6 8 9 10 7 12 15 17 23 11 13 14 20 21 24 19 22 16 18 25 
+
+USING ONLY ROBOT ALLOCATION : 1 1 1 1 1 1 1 1 1 
+
+CYCLE TIME : 305
+
+ENERGY CONSUMPTION : 717
+
+THE ALLOCATION FOR EACH STATION IS AS FOLLOWS
+
+#station number 1's allocation: 
+robot assigned : 1
+tasks assigned : 1 2 
+
+#station number 2's allocation: 
+robot assigned : 2
+tasks assigned : 3 4 5 
+
+#station number 3's allocation: 
+robot assigned : 4
+tasks assigned : 6 8 9 
+
+#station number 4's allocation: 
+robot assigned : 8
+tasks assigned : 10 7 12 
+
+#station number 5's allocation: 
+robot assigned : 1
+tasks assigned : 15 17 
+
+#station number 6's allocation: 
+robot assigned : 5
+tasks assigned : 23 11 13 
+
+#station number 7's allocation: 
+robot assigned : 6
+tasks assigned : 14 20 21 
+
+#station number 8's allocation: 
+robot assigned : 1
+tasks assigned : 24 19 22 
+
+#station number 9's allocation: 
+robot assigned : 2
+tasks assigned : 16 18 25 
+
+
+FOR THE TASK SEQUENCE : 1 2 3 4 5 6 8 9 10 7 12 15 17 23 11 13 14 16 20 21 24 19 18 22 25 
+
+USING HUMAN ROBOT ALLOCATION : 2 1 2 1 2 1 2 1 2 
+
+CYCLE TIME : 275
+
+ENERGY CONSUMPTION : 804
+
+THE ALLOCATION FOR EACH STATION IS AS FOLLOWS
+
+#station number 1's allocation: 
+cobot assigned : 3
+tasks assigned : 1 2 3 
+
+#station number 2's allocation: 
+robot assigned : 7
+tasks assigned : 4 5 6 
+
+#station number 3's allocation: 
+cobot assigned : 1
+tasks assigned : 8 9 
+
+#station number 4's allocation: 
+robot assigned : 8
+tasks assigned : 10 7 12 
+
+#station number 5's allocation: 
+cobot assigned : 7
+tasks assigned : 15 17 23 
+
+#station number 6's allocation: 
+robot assigned : 9
+tasks assigned : 11 13 14 
+
+#station number 7's allocation: 
+cobot assigned : 6
+tasks assigned : 16 20 21 
+
+#station number 8's allocation: 
+robot assigned : 1
+tasks assigned : 24 19 
+
+#station number 9's allocation: 
+cobot assigned : 4
+tasks assigned : 18 22 25 
+
+
+FOR THE TASK SEQUENCE : 1 2 3 4 5 6 8 9 10 7 12 15 17 23 11 13 14 16 20 21 24 19 18 22 25 
+
+USING ONLY ROBOT ALLOCATION : 1 1 1 1 1 1 1 1 1 
+
+CYCLE TIME : 318
+
+ENERGY CONSUMPTION : 700
+
+THE ALLOCATION FOR EACH STATION IS AS FOLLOWS
+
+#station number 1's allocation: 
+robot assigned : 1
+tasks assigned : 1 2 
+
+#station number 2's allocation: 
+robot assigned : 2
+tasks assigned : 3 4 5 
+
+#station number 3's allocation: 
+robot assigned : 1
+tasks assigned : 6 8 9 
+
+#station number 4's allocation: 
+robot assigned : 8
+tasks assigned : 10 7 12 
+
+#station number 5's allocation: 
+robot assigned : 1
+tasks assigned : 15 17 
+
+#station number 6's allocation: 
+robot assigned : 5
+tasks assigned : 23 11 13 
+
+#station number 7's allocation: 
+robot assigned : 6
+tasks assigned : 14 16 20 
+
+#station number 8's allocation: 
+robot assigned : 1
+tasks assigned : 21 24 19 
+
+#station number 9's allocation: 
+robot assigned : 2
+tasks assigned : 18 22 25 
+
+
+FOR THE TASK SEQUENCE : 1 2 3 4 5 6 8 9 10 7 12 15 17 23 11 13 14 20 21 16 19 24 22 18 25 
+
+USING HUMAN ROBOT ALLOCATION : 2 1 2 1 2 1 2 1 2 
+
+CYCLE TIME : 275
+
+ENERGY CONSUMPTION : 732
+
+THE ALLOCATION FOR EACH STATION IS AS FOLLOWS
+
+#station number 1's allocation: 
+cobot assigned : 3
+tasks assigned : 1 2 3 
+
+#station number 2's allocation: 
+robot assigned : 7
+tasks assigned : 4 5 6 
+
+#station number 3's allocation: 
+cobot assigned : 1
+tasks assigned : 8 9 
+
+#station number 4's allocation: 
+robot assigned : 8
+tasks assigned : 10 7 12 
+
+#station number 5's allocation: 
+cobot assigned : 7
+tasks assigned : 15 17 23 
+
+#station number 6's allocation: 
+robot assigned : 9
+tasks assigned : 11 13 14 
+
+#station number 7's allocation: 
+cobot assigned : 6
+tasks assigned : 20 21 16 
+
+#station number 8's allocation: 
+robot assigned : 1
+tasks assigned : 19 24 
+
+#station number 9's allocation: 
+cobot assigned : 5
+tasks assigned : 22 18 25 
+
+
+FOR THE TASK SEQUENCE : 1 2 3 4 5 6 8 9 10 7 12 15 17 23 11 13 14 20 21 16 19 24 22 18 25 
+
+USING ONLY ROBOT ALLOCATION : 1 1 1 1 1 1 1 1 1 
+
+CYCLE TIME : 324
+
+ENERGY CONSUMPTION : 684
+
+THE ALLOCATION FOR EACH STATION IS AS FOLLOWS
+
+#station number 1's allocation: 
+robot assigned : 2
+tasks assigned : 1 2 3 
+
+#station number 2's allocation: 
+robot assigned : 2
+tasks assigned : 4 5 6 
+
+#station number 3's allocation: 
+robot assigned : 2
+tasks assigned : 8 9 10 
+
+#station number 4's allocation: 
+robot assigned : 1
+tasks assigned : 7 12 15 
+
+#station number 5's allocation: 
+robot assigned : 5
+tasks assigned : 17 23 11 
+
+#station number 6's allocation: 
+robot assigned : 6
+tasks assigned : 13 14 20 
+
+#station number 7's allocation: 
+robot assigned : 9
+tasks assigned : 21 16 19 
+
+#station number 8's allocation: 
+robot assigned : 1
+tasks assigned : 24 22 
+
+#station number 9's allocation: 
+robot assigned : 1
+tasks assigned : 18 25 
+
+
+FOR THE TASK SEQUENCE : 1 2 3 4 5 6 8 9 10 7 12 15 17 23 11 13 14 16 20 21 24 19 18 25 22 
+
+USING HUMAN ROBOT ALLOCATION : 2 1 2 1 2 1 2 1 2 
+
+CYCLE TIME : 275
+
+ENERGY CONSUMPTION : 732
+
+THE ALLOCATION FOR EACH STATION IS AS FOLLOWS
+
+#station number 1's allocation: 
+cobot assigned : 3
+tasks assigned : 1 2 3 
+
+#station number 2's allocation: 
+robot assigned : 7
+tasks assigned : 4 5 6 
+
+#station number 3's allocation: 
+cobot assigned : 1
+tasks assigned : 8 9 
+
+#station number 4's allocation: 
+robot assigned : 8
+tasks assigned : 10 7 12 
+
+#station number 5's allocation: 
+cobot assigned : 7
+tasks assigned : 15 17 23 
+
+#station number 6's allocation: 
+robot assigned : 9
+tasks assigned : 11 13 14 
+
+#station number 7's allocation: 
+cobot assigned : 6
+tasks assigned : 16 20 21 
+
+#station number 8's allocation: 
+robot assigned : 1
+tasks assigned : 24 19 
+
+#station number 9's allocation: 
+cobot assigned : 5
+tasks assigned : 18 25 22 
+
+
+FOR THE TASK SEQUENCE : 1 2 3 4 5 6 8 9 10 7 12 15 17 23 11 13 14 16 20 21 24 19 18 25 22 
+
+USING ONLY ROBOT ALLOCATION : 1 1 1 1 1 1 1 1 1 
+
+CYCLE TIME : 322
+
+ENERGY CONSUMPTION : 723
+
+THE ALLOCATION FOR EACH STATION IS AS FOLLOWS
+
+#station number 1's allocation: 
+robot assigned : 1
+tasks assigned : 1 2 
+
+#station number 2's allocation: 
+robot assigned : 2
+tasks assigned : 3 4 5 
+
+#station number 3's allocation: 
+robot assigned : 1
+tasks assigned : 6 8 9 
+
+#station number 4's allocation: 
+robot assigned : 8
+tasks assigned : 10 7 12 
+
+#station number 5's allocation: 
+robot assigned : 1
+tasks assigned : 15 17 
+
+#station number 6's allocation: 
+robot assigned : 5
+tasks assigned : 23 11 13 
+
+#station number 7's allocation: 
+robot assigned : 6
+tasks assigned : 14 16 20 
+
+#station number 8's allocation: 
+robot assigned : 1
+tasks assigned : 21 24 19 
+
+#station number 9's allocation: 
+robot assigned : 7
+tasks assigned : 18 25 22 
+
+
+FOR THE TASK SEQUENCE : 1 2 3 4 5 6 8 9 10 7 12 15 17 23 11 13 14 16 20 21 19 22 18 25 24 
+
+USING HUMAN ROBOT ALLOCATION : 2 1 2 1 2 1 2 1 2 
+
+CYCLE TIME : 275
+
+ENERGY CONSUMPTION : 717
+
+THE ALLOCATION FOR EACH STATION IS AS FOLLOWS
+
+#station number 1's allocation: 
+cobot assigned : 3
+tasks assigned : 1 2 3 
+
+#station number 2's allocation: 
+robot assigned : 7
+tasks assigned : 4 5 6 
+
+#station number 3's allocation: 
+cobot assigned : 1
+tasks assigned : 8 9 
+
+#station number 4's allocation: 
+robot assigned : 8
+tasks assigned : 10 7 12 
+
+#station number 5's allocation: 
+cobot assigned : 7
+tasks assigned : 15 17 23 
+
+#station number 6's allocation: 
+robot assigned : 9
+tasks assigned : 11 13 14 
+
+#station number 7's allocation: 
+cobot assigned : 6
+tasks assigned : 16 20 21 
+
+#station number 8's allocation: 
+robot assigned : 7
+tasks assigned : 19 22 18 
+
+#station number 9's allocation: 
+cobot assigned : 1
+tasks assigned : 25 24 
+
+
+FOR THE TASK SEQUENCE : 1 2 3 4 5 6 8 9 10 7 12 15 17 23 11 13 14 16 20 21 19 22 18 25 24 
+
+USING ONLY ROBOT ALLOCATION : 1 1 1 1 1 1 1 1 1 
+
+CYCLE TIME : 324
+
+ENERGY CONSUMPTION : 662
+
+THE ALLOCATION FOR EACH STATION IS AS FOLLOWS
+
+#station number 1's allocation: 
+robot assigned : 2
+tasks assigned : 1 2 3 
+
+#station number 2's allocation: 
+robot assigned : 2
+tasks assigned : 4 5 6 
+
+#station number 3's allocation: 
+robot assigned : 2
+tasks assigned : 8 9 10 
+
+#station number 4's allocation: 
+robot assigned : 1
+tasks assigned : 7 12 15 
+
+#station number 5's allocation: 
+robot assigned : 5
+tasks assigned : 17 23 11 
+
+#station number 6's allocation: 
+robot assigned : 6
+tasks assigned : 13 14 16 
+
+#station number 7's allocation: 
+robot assigned : 1
+tasks assigned : 20 21 19 
+
+#station number 8's allocation: 
+robot assigned : 7
+tasks assigned : 22 18 25 
+
+#station number 9's allocation: 
+robot assigned : 1
+tasks assigned : 24 
+
+
+FOR THE TASK SEQUENCE : 1 2 3 4 5 6 8 9 10 7 12 15 17 23 11 13 14 20 21 24 19 22 16 18 25 
+
+USING HUMAN ROBOT ALLOCATION : 2 1 2 1 2 1 3 1 2 
+
+CYCLE TIME : 299
+
+ENERGY CONSUMPTION : 617
+
+THE ALLOCATION FOR EACH STATION IS AS FOLLOWS
+
+#station number 1's allocation: 
+cobot assigned : 3
+tasks assigned : 1 2 3 
+
+#station number 2's allocation: 
+robot assigned : 7
+tasks assigned : 4 5 6 
+
+#station number 3's allocation: 
+cobot assigned : 1
+tasks assigned : 8 9 
+
+#station number 4's allocation: 
+robot assigned : 8
+tasks assigned : 10 7 12 
+
+#station number 5's allocation: 
+cobot assigned : 6
+tasks assigned : 15 17 23 
+
+#station number 6's allocation: 
+robot assigned : 9
+tasks assigned : 11 13 14 
+
+#station number 7's allocation: 
+human assigned
+tasks assigned : 20 21 
+
+#station number 8's allocation: 
+robot assigned : 1
+tasks assigned : 24 19 22 
+
+#station number 9's allocation: 
+cobot assigned : 5
+tasks assigned : 16 18 25 
+
+
+FOR THE TASK SEQUENCE : 1 2 3 4 5 6 8 9 10 7 12 15 17 23 11 13 14 20 21 24 19 22 16 18 25 
+
+USING ONLY ROBOT ALLOCATION : 1 1 1 1 1 1 1 1 1 
+
+CYCLE TIME : 305
+
+ENERGY CONSUMPTION : 682
+
+THE ALLOCATION FOR EACH STATION IS AS FOLLOWS
+
+#station number 1's allocation: 
+robot assigned : 1
+tasks assigned : 1 2 
+
+#station number 2's allocation: 
+robot assigned : 2
+tasks assigned : 3 4 5 
+
+#station number 3's allocation: 
+robot assigned : 4
+tasks assigned : 6 8 9 
+
+#station number 4's allocation: 
+robot assigned : 8
+tasks assigned : 10 7 12 
+
+#station number 5's allocation: 
+robot assigned : 1
+tasks assigned : 15 17 
+
+#station number 6's allocation: 
+robot assigned : 5
+tasks assigned : 23 11 13 
+
+#station number 7's allocation: 
+robot assigned : 6
+tasks assigned : 14 20 21 
+
+#station number 8's allocation: 
+robot assigned : 1
+tasks assigned : 24 19 22 
+
+#station number 9's allocation: 
+robot assigned : 2
+tasks assigned : 16 18 25 
+
+
